@@ -1,0 +1,10 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?
+26, 5,"bangalore, india (map)",kannada1,kannada,female ,228,india,FALSE
+22, 10,"bangalore, india (map)",kannada2,kannada,male ,2237,india,FALSE
+24, 4,"hassan, karnataka, india (map)",kannada3,kannada,male ,2286,india,FALSE
+23, 4,"detroit, michigan, usa (map)",kannada4,kannada,female ,2287,india,FALSE
+26, 5,"hubballi, karnataka, india (map)",kannada5,kannada,male ,2350,india,FALSE
+25, 5,"karwar, karnataka, india (map)",kannada6,kannada,male ,2351,india,FALSE
+24, 5,"bangalore, karnataka, india (map)",kannada7,kannada,female ,2358,india,FALSE
+25, 6,"bangalore, karnataka, india (map)",kannada8,kannada,male ,2363,india,FALSE
+23, 3,"bangalore, karnataka, india (map)",kannada9,kannada,male ,2458,india,FALSE

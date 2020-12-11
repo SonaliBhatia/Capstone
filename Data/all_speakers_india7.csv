@@ -1,0 +1,15 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?
+31, 6,"kadapa, india (map)",telugu1,telugu,male ,369,india,FALSE
+18, 6,"guntur, andhra pradesh, india (map)",telugu2,telugu,male ,370,india,FALSE
+25, 5,"bellary, karnataka, india (map)",telugu3,telugu,male ,2211,india,FALSE
+22, 5,"hyderabad, india (map)",telugu4,telugu,male ,2213,india,FALSE
+21, 4,"khammam, telangana, india (map)",telugu5,telugu,male ,2228,india,FALSE
+23, 4,"hyderabad, india (map)",telugu6,telugu,male ,2280,india,FALSE
+23, 3,"hyderabad, india (map)",telugu7,telugu,male ,2339,india,FALSE
+22, 2,"guntur, andhra pradesh, india (map)",telugu8,telugu,male ,2422,india,FALSE
+24, 7,"vijayawada, andhra pradesh, india (map)",telugu9,telugu,male ,2460,india,FALSE
+21, 14,"hyderabad, india (map)",telugu10,telugu,male ,2465,india,FALSE
+26, 6,"hyderabad, india (map)",telugu11,telugu,male ,2512,india,FALSE
+18, 3,"edison, new jersey, usa (map)",telugu12,telugu,female ,2601,india,FALSE
+25, 5,"hyderabad, india (map)",telugu13,telugu,male ,2603,india,FALSE
+19, 17,"tenali, india (map)",telugu14,telugu,female ,2848,india,FALSE

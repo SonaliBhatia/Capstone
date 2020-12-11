@@ -1,0 +1,18 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?
+20, 15,"ahmedabad, india (map)",gujarati1,gujarat,male ,198,india,FALSE
+22, 8,"bombay, india (map)",gujarati2,gujarat,male ,199,india,FALSE
+28, 2,"limerick, ireland (map)",gujarati3,gujarat,female ,200,india,FALSE
+53, 16,"ahmedabad, india (map)",gujarati4,gujarat,female ,610,india,FALSE
+28, 3,"bombay, india (map)",gujarati5,gujarat,female ,1016,india,FALSE
+29, 5,"kutch, gujarat, india (map)",gujarati6,gujarat,male ,1143,india,FALSE
+40, 4,"hyderabad, india (map)",gujarati7,gujarat,female ,1504,india,FALSE
+27, 7,"ahmedabad, india (map)",gujarati8,gujarat,female ,1678,india,FALSE
+19, 9,"surat, india (map)",gujarati9,gujarat,male ,2041,india,FALSE
+24, 7,"bombay, india (map)",gujarati10,gujarat,male ,2292,india,FALSE
+25, 7,"jamnagar, gujarat, india (map)",gujarati11,gujarat,male ,2301,india,FALSE
+23, 5,"rajkot, gujarat, india (map)",gujarati12,gujarat,female ,2357,india,FALSE
+25, 5,"bombay, maharashtra, india (map)",gujarati13,gujarat,female ,2409,india,FALSE
+23, 3,"bombay, india (map)",gujarati14,gujarat,male ,2416,india,FALSE
+20, 3,"rajkot, india (map)",gujarati15,gujarat,female ,2498,india,FALSE
+20, 3,"bombay, india (map)",gujarati16,gujarat,female ,2558,india,FALSE
+50, 16,"bombay, india (map)",gujarati17,gujarat,female ,2824,india,FALSE

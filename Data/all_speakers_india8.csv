@@ -1,0 +1,21 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?
+23, 16,"dhaka, bangladesh (map)",bengali1,bengali,male ,34,india,FALSE
+25, 2,"lusaka, zambia (map)",bengali2,bengali,female ,35,india,FALSE
+19, 5,"dhaka, bangladesh (map)",bengali3,bengali,female ,36,india,FALSE
+24, 6,"chittagong, bangladesh (map)",bengali4,bengali,male ,37,india,FALSE
+40, 5,"dhaka, bangladesh (map)",bengali5,bengali,female ,622,india,FALSE
+29, 4,"jamshedpur, jharkhand, india (map)",bengali6,bengali,male ,624,india,FALSE
+49, 6,"mymensingh, bangladesh (map)",bengali7,bengali,male ,710,india,FALSE
+54, 5,"noakhali, bangladesh (map)",bengali8,bengali,male ,709,india,FALSE
+61, 12,"kolkata, india (map)",bengali9,bengali,female ,987,india,FALSE
+18, 3,"dhaka, bangladesh (map)",bengali10,bengali,female ,1009,india,FALSE
+34, 3.5,"durgapur, west bengal, india (map)",bengali11,bengali,male ,1018,india,FALSE
+25, 4,"sylhet, bangladesh (map)",bengali12,bengali,female ,1682,india,FALSE
+33, 10,"dhaka, bangladesh (map)",bengali13,bengali,female ,1825,india,FALSE
+26, 4,"kolkata, india (map)",bengali14,bengali,male ,1973,india,FALSE
+46, 8,"dhaka, bangladesh (map)",bengali15,bengali,female ,2004,india,FALSE
+24, 6,"dhaka, bangladesh (map)",bengali16,bengali,female ,2073,india,FALSE
+19, 6,"sylhet, bangladesh (map)",bengali17,bengali,female ,2139,india,FALSE
+20, 17,"dhaka, bangladesh (map)",bengali18,bengali,female ,2318,india,FALSE
+25, 3,"hyderabad, telangana, india (map)",bengali19,bengali,female ,2349,india,FALSE
+23, 5,"chittagong, bangladesh (map)",bengali20,bengali,male ,2792,india,FALSE

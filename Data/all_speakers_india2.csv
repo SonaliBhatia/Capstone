@@ -1,0 +1,35 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?
+27, 2,"nagpur, maharashtra, india (map)",hindi1,hindi,male ,207,india,FALSE
+31, 3,"hyderabad, india (map)",hindi2,hindi,male ,587,india,FALSE
+42, 5,"jalandhar, india (map)",hindi3,hindi,male ,593,india,FALSE
+28, 14,"bhilwara, rajisthan, india (map)",hindi4,hindi,female ,765,india,FALSE
+64, 10,"hubballi, karnataka, india (map)",hindi5,hindi,female ,845,india,FALSE
+27, 4,"new delhi, india (map)",hindi6,hindi,female ,866,india,FALSE
+60, 5,"allahabad, utter pardesh, india (map)",hindi7,hindi,female ,867,india,FALSE
+19, 8,"imphal, india (map)",hindi8,hindi,male ,910,india,FALSE
+31, 4,"durgapur, west bengal, india (map)",hindi9,hindi,male ,1017,india,FALSE
+19, 10.5,"new delhi, india (map)",hindi10,hindi,female ,1202,india,FALSE
+20, 4,"chandigarh, india (map)",hindi11,hindi,male ,1437,india,FALSE
+25, 4,"allahabad, india (map)",hindi12,hindi,female ,1440,india,FALSE
+43, 13,"jaipur, india (map)",hindi13,hindi,female ,1633,india,FALSE
+53, 12,"new delhi, india (map)",hindi14,hindi,male ,1697,india,FALSE
+23, 1,"new delhi, india (map)",hindi15,hindi,female ,1794,india,FALSE
+25, 5,"new delhi, india (map)",hindi16,hindi,male ,1966,india,FALSE
+47, 3,"new delhi, india (map)",hindi17,hindi,female ,1988,india,FALSE
+21, 5,"new delhi, india (map)",hindi18,hindi,female ,2125,india,FALSE
+19, 0,"irving, texas, usa (map)",hindi19,hindi,male ,2206,india,FALSE
+27, 4,"hazaribagh, jharkhand, india (map)",hindi20,hindi,male ,2209,india,FALSE
+26, 4,"faridabad, haryana, india (map)",hindi21,hindi,male ,2236,india,FALSE
+28, 5,"meerut, uttar pradesh, india (map)",hindi22,hindi,male ,2242,india,FALSE
+25, 3,"raj nagar, rajasthan, india (map)",hindi23,hindi,male ,2303,india,FALSE
+23, 2,"jamshedpur, jharkhand, india (map)",hindi24,hindi,female ,2352,india,FALSE
+24, 6,"pune, maharashtra, india (map)",hindi25,hindi,male ,2353,india,FALSE
+25, 6,"kolkata, west bengal, india (map)",hindi26,hindi,male ,2354,india,FALSE
+22, 5,"surat, gujarat, india (map)",hindi27,hindi,male ,2356,india,FALSE
+21, 5,"patna, india (map)",hindi28,hindi,male ,2366,india,FALSE
+24, 3,"chennai, tamil nadu, india (map)",hindi29,hindi,male ,2459,india,FALSE
+37, 5,"ludhiana, india (map)",hindi30,hindi,female ,2478,india,FALSE
+36, 5,"rajkot, gujarat, india (map)",hindi31,hindi,female ,2609,india,FALSE
+27, 9,"new delhi, india (map)",hindi32,hindi,female ,2703,india,FALSE
+44, 6,"hyderabad, india (map)",hindi33,hindi,female ,2764,india,FALSE
+29, 5,"pune, india (map)",hindi34,hindi,male ,2937,india,FALSE

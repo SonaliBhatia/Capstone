@@ -1,0 +1,233 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?
+22, 12,"hong kong, china (map)",cantonese1,cantone,female ,45,china,FALSE
+20, 13,"hong kong, china (map)",cantonese2,cantone,male ,46,china,FALSE
+22, 6,"hong kong, china (map)",cantonese3,cantone,male ,47,china,FALSE
+29, 13,"fuzhou, fujian, china (map)",cantonese4,cantone,female ,48,china,FALSE
+18, 14,"hong kong, china (map)",cantonese5,cantone,male ,49,china,FALSE
+25, 5,"hong kong, china (map)",cantonese6,cantone,male ,462,china,FALSE
+31, 4,"hong kong, china (map)",cantonese7,cantone,male ,494,china,FALSE
+23, 2,"hong kong, china (map)",cantonese8,cantone,female ,498,china,FALSE
+22, 7,"hong kong, china (map)",cantonese9,cantone,male ,502,china,FALSE
+25, 3,"xiamen, fujian, china (map)",cantonese10,cantone,female ,505,china,FALSE
+22, 3,"hong kong, china (map)",cantonese11,cantone,female ,544,china,FALSE
+20, 4,"macau, china (map)",cantonese12,cantone,female ,602,china,FALSE
+21, 3,"hong kong, china (map)",cantonese13,cantone,female ,730,china,FALSE
+19, 3,"hong kong, china (map)",cantonese14,cantone,female ,742,china,FALSE
+31, 12,"qingyuan, guangdong, china (map)",cantonese15,cantone,female ,862,china,FALSE
+29, 3,"hong kong, china (map)",cantonese16,cantone,female ,874,china,FALSE
+26, 3,"hong kong, china (map)",cantonese17,cantone,female ,878,china,FALSE
+19, 3,"hong kong, china (map)",cantonese18,cantone,male ,885,china,FALSE
+28, 7,"hong kong, china (map)",cantonese19,cantone,female ,1247,china,FALSE
+18, 3,"hong kong, china (map)",cantonese20,cantone,male ,1480,china,FALSE
+18, 4,"hong kong, china (map)",cantonese21,cantone,female ,1558,china,FALSE
+30, 3,"hong kong, china (map)",cantonese22,cantone,female ,1974,china,FALSE
+33, 6,"hong kong, china (map)",cantonese23,cantone,male ,1975,china,FALSE
+23, 3,"hong kong, china (map)",cantonese24,cantone,female ,2223,china,FALSE
+23, 3,"hong kong, china (map)",cantonese25,cantone,male ,2234,china,FALSE
+26, 6,"hong kong, china (map)",cantonese26,cantone,female ,2320,china,FALSE
+20, 15,"ho chi minh city, vietnam (map)",cantonese27,cantone,male ,2330,china,FALSE
+25, 7,"guangzhou, china (map)",cantonese28,cantone,female ,2408,china,FALSE
+20, 6,"hong kong, china (map)",cantonese29,cantone,male ,2481,china,FALSE
+25, 6,"guangzhou, china (map)",cantonese30,cantone,female ,2556,china,FALSE
+21, 6,"guangzhou, guangdong, china (map)",cantonese31,cantone,male ,2565,china,FALSE
+26, 7,"fuzhou, fujian, china (map)",cantonese32,cantone,female ,2704,china,FALSE
+25, 7,"hong kong, china (map)",cantonese33,cantone,female ,2706,china,FALSE
+19, 6,"hong kong, china (map)",cantonese34,cantone,male ,2710,china,FALSE
+21, 9,"foshan, guangdong, china (map)",cantonese35,cantone,male ,2854,china,FALSE
+72, 40,"pingxiang, jiangxi, china (map)",gan1,"gan
+(ga",male ,1632,china,FALSE
+45, 7,"singapore, singapore (map)",hainanese1,hainane,male ,914,china,FALSE
+72, 13,"pei kang, taiwan (map)",hakka1,"hakka
+(",female ,1655,china,FALSE
+19, 11,"ganzhou, jiangxi, china (map)",hakka2,"hakka
+(",female ,2241,china,FALSE
+20, 12,"pingxiang, jiangxi, china (map)",hakka3,"hakka
+(",female ,2305,china,FALSE
+26, 13,"shanxi province, shanxi, china (map)",mandarin1,mandari,female ,256,china,FALSE
+38, 14,"nanjing, china (map)",mandarin2,mandari,female ,257,china,FALSE
+43, 10,"jilin city, jilin, china (map)",mandarin3,mandari,male ,258,china,FALSE
+24, 6,"shanghai, china (map)",mandarin4,mandari,female ,259,china,FALSE
+31, 12,"beijing, china (map)",mandarin5,mandari,female ,260,china,FALSE
+28, 12,"le shan, sichuan, china (map)",mandarin6,mandari,female ,261,china,FALSE
+22, 5,"berkeley, california, usa (map)",mandarin7,mandari,male ,262,china,FALSE
+29, 12,"jingmen, hubei, china (map)",mandarin8,mandari,male ,430,china,FALSE
+38, 12,"shanghai, china (map)",mandarin9,mandari,male ,451,china,FALSE
+19, 3,"beijing, china (map)",mandarin10,mandari,male ,491,china,FALSE
+53, 13,"kao-hsiung, taiwan (map)",mandarin11,mandari,female ,607,china,FALSE
+23, 1,"singapore, singapore (map)",mandarin12,mandari,male ,623,china,FALSE
+29, 13,"nantou, taiwan (map)",mandarin13,mandari,male ,685,china,FALSE
+49, 20,"dalian, liaoning, china (map)",mandarin14,mandari,male ,719,china,FALSE
+28, 11,"tainan, taiwan (map)",mandarin15,mandari,female ,746,china,FALSE
+32, 10,"taipei, taiwan (map)",mandarin16,mandari,male ,750,china,FALSE
+26, 13,"wuhan, hubei, china (map)",mandarin17,mandari,male ,796,china,FALSE
+29, 13,"taoyuan, taiwan (map)",mandarin18,mandari,female ,872,china,FALSE
+27, 13,"qinzhou, guangxi, china (map)",mandarin19,mandari,male ,916,china,FALSE
+38, 9,"chengdu, sichuan, china (map)",mandarin21,mandari,female ,984,china,FALSE
+39, 11,"haikou, hainan, china (map)",mandarin22,mandari,female ,1019,china,FALSE
+46, 13,"kao-hsiung, taiwan (map)",mandarin23,mandari,female ,1044,china,FALSE
+21, 10,"shanghai, china (map)",mandarin24,mandari,female ,1089,china,FALSE
+28, 13,"wuxi, jiangsu, china (map)",mandarin25,mandari,female ,1125,china,FALSE
+31, 12,"emei, sichuan, china (map)",mandarin26,mandari,female ,1141,china,FALSE
+18, 15,"chengdu, sichuan, china (map)",mandarin27,mandari,male ,1154,china,FALSE
+45, 15,"shanghai, china (map)",mandarin28,mandari,male ,1447,china,FALSE
+24, 4,"lanzhou, gansu, china (map)",mandarin29,mandari,male ,1490,china,FALSE
+27, 13,"taipei, taiwan (map)",mandarin30,mandari,male ,1491,china,FALSE
+26, 13,"wenzhou, zhejiang, china (map)",mandarin31,mandari,female ,1519,china,FALSE
+23, 12,"taipei, taiwan (map)",mandarin32,mandari,female ,1527,china,FALSE
+25, 6,"beijing, china (map)",mandarin33,mandari,male ,1541,china,FALSE
+31, 13,"shi jia zhuang, hebei, china (map)",mandarin34,mandari,female ,1578,china,FALSE
+27, 12,"yantai, shandong, china (map)",mandarin35,mandari,female ,1579,china,FALSE
+32, 10,"beijing, china (map)",mandarin36,mandari,female ,1580,china,FALSE
+32, 12,"huhot, nei meng gu, china (map)",mandarin37,mandari,female ,1581,china,FALSE
+33, 12,"changsha, hunan, china (map)",mandarin38,mandari,female ,1582,china,FALSE
+24, 12,"tie ling, liaoning, china (map)",mandarin39,mandari,female ,1583,china,FALSE
+28, 12,"chengdu, sichuan, china (map)",mandarin40,mandari,male ,1614,china,FALSE
+34, 13,"songyuan, jilin, china (map)",mandarin41,mandari,female ,1615,china,FALSE
+47, 16,"yanbian, jilin, china (map)",mandarin42,mandari,female ,1616,china,FALSE
+24, 15,"datong, shanxi, china (map)",mandarin43,mandari,female ,1617,china,FALSE
+21, 16,"hangzhou, zhejiang, china (map)",mandarin44,mandari,male ,1630,china,FALSE
+42, 12,"beijing, china (map)",mandarin45,mandari,female ,1631,china,FALSE
+43, 9,"jilin city, jilin, china (map)",mandarin46,mandari,female ,1636,china,FALSE
+28, 8,"beijing, china (map)",mandarin47,mandari,female ,1644,china,FALSE
+37, 12,"pingdingshan, henan, china (map)",mandarin48,mandari,male ,1645,china,FALSE
+21, 10,"shanghai, china (map)",mandarin49,mandari,male ,1736,china,FALSE
+25, 9,"hsinchu, taiwan (map)",mandarin50,mandari,male ,1788,china,FALSE
+25, 10,"tianjin, hebei, china (map)",mandarin51,mandari,male ,1792,china,FALSE
+26, 6,"shaoxing, zhejiang, china (map)",mandarin52,mandari,female ,1793,china,FALSE
+38, 13,"ningbo, zhejiang, china (map)",mandarin53,mandari,female ,1817,china,FALSE
+25, 10,"chengdu, sichuan, china (map)",mandarin54,mandari,female ,1900,china,FALSE
+25, 13,"loudi, hunan, china (map)",mandarin55,mandari,female ,1909,china,FALSE
+26, 11,"baoding, hebei, china (map)",mandarin56,mandari,female ,1910,china,FALSE
+20, 12,"shanghai, china (map)",mandarin57,mandari,male ,1990,china,FALSE
+23, 7,"superior, colorado, usa (map)",mandarin58,mandari,male ,2000,china,FALSE
+20, 6,"kunming, yunnan, china (map)",mandarin59,mandari,female ,2019,china,FALSE
+41, 13,"guiyang, guizhou, china (map)",mandarin60,mandari,female ,2109,china,FALSE
+33, 16,"shangrao, jiangxi, china (map)",mandarin61,mandari,female ,2116,china,FALSE
+24, 7,"shanghai, china (map)",mandarin62,mandari,male ,2117,china,FALSE
+27, 12,"jiaozuo, henan, china (map)",mandarin63,mandari,male ,2119,china,FALSE
+24, 10,"fuzhou, fujian, china (map)",mandarin64,mandari,female ,2129,china,FALSE
+20, 5,"tianjin, hebei, china (map)",mandarin65,mandari,female ,2173,china,FALSE
+22, 19,"shanghai, china (map)",mandarin66,mandari,female ,2252,china,FALSE
+23, 13,"nanjing, china (map)",mandarin67,mandari,male ,2274,china,FALSE
+23, 10,"dongyang, zhejiang, china (map)",mandarin68,mandari,male ,2281,china,FALSE
+22, 12,"taizhou, jiangsu, china (map)",mandarin69,mandari,male ,2282,china,FALSE
+21, 8,"shanghai, china (map)",mandarin70,mandari,female ,2291,china,FALSE
+20, 6,"chengdu, sichuan, china (map)",mandarin71,mandari,female ,2294,china,FALSE
+22, 10,"taichung, taiwan (map)",mandarin72,mandari,female ,2306,china,FALSE
+27, 10,"chengdu, sichuan, china (map)",mandarin73,mandari,female ,2319,china,FALSE
+19, 13,"shenzhen, china (map)",mandarin74,mandari,male ,2323,china,FALSE
+20, 13,"taipei, taiwan (map)",mandarin75,mandari,male ,2332,china,FALSE
+29, 12,"zhengzhou, henan, china (map)",mandarin76,mandari,male ,2348,china,FALSE
+20, 8,"jingjiang, jiangsu, china (map)",mandarin77,mandari,female ,2355,china,FALSE
+20, 6,"ganzhou, jiangxi, china (map)",mandarin78,mandari,female ,2360,china,FALSE
+21, 10,"xi'an, shanxi, china (map)",mandarin80,mandari,male ,2413,china,FALSE
+22, 10,"suzhou, jiangsu, china (map)",mandarin81,mandari,female ,2414,china,FALSE
+23, 13,"wuhai, china (map)",mandarin82,mandari,female ,2418,china,FALSE
+26, 12,"zhengzhou, henan, china (map)",mandarin83,mandari,female ,2419,china,FALSE
+24, 10,"zhengzhou, henan, china (map)",mandarin84,mandari,female ,2420,china,FALSE
+23, 10,"changsha, hunan, china (map)",mandarin85,mandari,female ,2421,china,FALSE
+22, 7,"shenyang, liaoning, china (map)",mandarin86,mandari,female ,2423,china,FALSE
+22, 7,"lanzhou, gansu, china (map)",mandarin87,mandari,female ,2435,china,FALSE
+23, 8,"anqing, anhui, china (map)",mandarin88,mandari,male ,2447,china,FALSE
+19, 12,"taiyuan, shanxi, china (map)",mandarin89,mandari,male ,2448,china,FALSE
+27, 8,"chengdu, sichuan, china (map)",mandarin90,mandari,male ,2461,china,FALSE
+22, 13,"tongcheng, anhui, china (map)",mandarin91,mandari,male ,2463,china,FALSE
+23, 10,"huai'an, jiangsu, china (map)",mandarin92,mandari,female ,2469,china,FALSE
+22, 6,"xi'an, shanxi, china (map)",mandarin93,mandari,female ,2474,china,FALSE
+23, 8,"baotou, inner mongolia, china (map)",mandarin94,mandari,male ,2477,china,FALSE
+29, 11,"yangxin, hubei, china (map)",mandarin95,mandari,female ,2483,china,FALSE
+27, 9,"qingdao, shandong, china (map)",mandarin96,mandari,female ,2494,china,FALSE
+28, 11,"jiujiang, jiangxi, china (map)",mandarin97,mandari,female ,2523,china,FALSE
+25, 11,"nanchang, jiangxi, china (map)",mandarin98,mandari,female ,2524,china,FALSE
+26, 9,"nanchang, jiangxi, china (map)",mandarin99,mandari,female ,2529,china,FALSE
+25, 13,"wuhan, hubei, china (map)",mandarin100,mandari,female ,2530,china,FALSE
+23, 10,"jiujiang, jiangxi, china (map)",mandarin101,mandari,female ,2531,china,FALSE
+27, 10,"huanggang, hubei, china (map)",mandarin102,mandari,female ,2532,china,FALSE
+27, 12,"le shan, sichuan, china (map)",mandarin103,mandari,female ,2538,china,FALSE
+29, 7,"beijing, china (map)",mandarin104,mandari,female ,2539,china,FALSE
+26, 12,"tongliao, inner mongolia, china (map)",mandarin105,mandari,female ,2540,china,FALSE
+25, 2,"xi'an, shanxi, china (map)",mandarin106,mandari,female ,2542,china,FALSE
+26, 8,"taiyuan, shanxi, china (map)",mandarin107,mandari,female ,2554,china,FALSE
+26, 14,"nanning, guangxi, china (map)",mandarin108,mandari,female ,2557,china,FALSE
+23, 4,"xi'an, shanxi, china (map)",mandarin109,mandari,female ,2559,china,FALSE
+24, 7,"panjin, liaoning, china (map)",mandarin110,mandari,female ,2560,china,FALSE
+23, 6,"beijing, china (map)",mandarin111,mandari,female ,2562,china,FALSE
+26, 6,"tianjin, china (map)",mandarin112,mandari,male ,2564,china,FALSE
+29, 10,"hohhot, inner mongolia, china (map)",mandarin113,mandari,male ,2566,china,FALSE
+19, 13,"beijing, china (map)",mandarin114,mandari,female ,2599,china,FALSE
+19, 5,"urumqi, xinjiang, china (map)",mandarin115,mandari,male ,2675,china,FALSE
+24, 9,"baotou, inner mongolia, china (map)",mandarin116,mandari,male ,2677,china,FALSE
+25, 9,"changchun, jilin, china (map)",mandarin117,mandari,male ,2678,china,FALSE
+24, 9,"xi'an, shanxi, china (map)",mandarin118,mandari,female ,2679,china,FALSE
+24, 7,"changchun, jilin, china (map)",mandarin119,mandari,female ,2699,china,FALSE
+24, 10,"chengde, hebei, china (map)",mandarin120,mandari,male ,2700,china,FALSE
+30, 13,"huangshan, anhui, china (map)",mandarin121,mandari,female ,2708,china,FALSE
+26, 6,"xi'an, shanxi, china (map)",mandarin122,mandari,male ,2711,china,FALSE
+21, 6,"chengdu, sichuan, china (map)",mandarin123,mandari,male ,2714,china,FALSE
+33, 13,"chongqing, china (map)",mandarin124,mandari,female ,2716,china,FALSE
+24, 6,"changchun, jilin, china (map)",mandarin125,mandari,female ,2719,china,FALSE
+24, 8,"yulin, shanxi, china (map)",mandarin126,mandari,male ,2726,china,FALSE
+25, 15,"shenyang, liaoning, china (map)",mandarin127,mandari,male ,2748,china,FALSE
+21, 7,"cixi, zhejiang, china (map)",mandarin128,mandari,female ,2772,china,FALSE
+22, 12,"luoyang, henan, china (map)",mandarin129,mandari,female ,2773,china,FALSE
+22, 7,"weifang, shandong, china (map)",mandarin130,mandari,female ,2798,china,FALSE
+20, 6,"shenzhen, guangdong, china (map)",mandarin131,mandari,male ,2836,china,FALSE
+21, 2,"dangyang, hubei, china (map)",mandarin132,mandari,female ,2837,china,FALSE
+26, 10,"beijing, china (map)",mandarin133,mandari,female ,2876,china,FALSE
+27, 9,"luoyang, henan, china (map)",mandarin134,mandari,male ,2877,china,FALSE
+25, 9,"langfang, hebei, china (map)",mandarin135,mandari,male ,2878,china,FALSE
+20, 10,"shenyang, liaoning, china (map)",mandarin136,mandari,female ,2879,china,FALSE
+20, 10,"xi'an, shanxi, china (map)",mandarin137,mandari,female ,2880,china,FALSE
+21, 7,"chongqing, china (map)",mandarin138,mandari,female ,2881,china,FALSE
+23, 14,"kunming, yunnan, china (map)",mandarin139,mandari,male ,2882,china,FALSE
+22, 7,"xuzhou, jiangsu, china (map)",mandarin140,mandari,male ,2883,china,FALSE
+21, 6,"beijing, china (map)",mandarin141,mandari,female ,2884,china,FALSE
+23, 6,"chengdu, sichuan, china (map)",mandarin142,mandari,female ,2885,china,FALSE
+25, 10,"fuyang, anhui, china (map)",mandarin143,mandari,female ,2886,china,FALSE
+20, 10,"wuhu, anhui, china (map)",mandarin144,mandari,male ,2887,china,FALSE
+21, 4,"qingdao, shandong, china (map)",mandarin145,mandari,female ,2888,china,FALSE
+24, 6,"xi'an, shanxi, china (map)",mandarin146,mandari,female ,2890,china,FALSE
+19, 9,"nanyang, henan, china (map)",mandarin147,mandari,female ,2891,china,FALSE
+19, 6,"nanyang, henan, china (map)",mandarin148,mandari,female ,2892,china,FALSE
+19, 6,"fuzhou, fujian, china (map)",mandarin149,mandari,female ,2893,china,FALSE
+18, 12,"taiyuan, shanxi, china (map)",mandarin150,mandari,female ,2936,china,FALSE
+31, 8,"wuxi, jiangsu, china (map)",mandarin151,mandari,female ,2942,china,FALSE
+25, 6,"dongguan, guangdong, china (map)",minnan1,min nan,male ,2712,china,FALSE
+24, 12,"shangri-la, yunnan, china (map)",naxi1,"naxi
+(n",female ,2164,china,FALSE
+36, 13,"ping tung, taiwan (map)",taiwanese1,taiwane,female ,363,china,FALSE
+24, 17,"taipei, taiwan (map)",taiwanese2,taiwane,female ,364,china,FALSE
+30, 13,"tainan, taiwan (map)",taiwanese3,taiwane,female ,365,china,FALSE
+45, 21,"kao-hsiung, taiwan (map)",taiwanese4,taiwane,female ,366,china,FALSE
+27, 15,"tainan, taiwan (map)",taiwanese5,taiwane,male ,481,china,FALSE
+33, 13,"tai chung, taiwan (map)",taiwanese6,taiwane,female ,828,china,FALSE
+65, 35,"taipei, taiwan (map)",taiwanese7,taiwane,female ,1864,china,FALSE
+54, 13,"tainan, taiwan (map)",taiwanese8,taiwane,female ,2136,china,FALSE
+45, 25,"tai chung, taiwan (map)",taiwanese9,taiwane,male ,2347,china,FALSE
+27, 5,"taipei, taiwan (map)",taiwanese10,taiwane,male ,2686,china,FALSE
+23, 4,"taipei, taiwan (map)",taiwanese11,taiwane,male ,2687,china,FALSE
+59, 8,"guangdong province, guangdong, china (map)",teochew1,teochew,female ,569,china,FALSE
+30, 12,"taizhou, zhejiang, china (map)",wu1,"wu
+(wuu",female ,1646,china,FALSE
+23, 5,"shanghai, china (map)",wu2,"wu
+(wuu",male ,2424,china,FALSE
+19, 7,"shanghai, china (map)",wu3,"wu
+(wuu",female ,2511,china,FALSE
+28, 7,"nantong, jiangsu, china (map)",wu4,"wu
+(wuu",female ,2702,china,FALSE
+20, 8,"nantong, jiangsu, china (map)",wu5,"wu
+(wuu",male ,2713,china,FALSE
+21, 10,"shaoxing, zhejiang, china (map)",wu6,"wu
+(wuu",male ,2727,china,FALSE
+50, 14,"taipei, taiwan (map)",xiang1,"xiang
+(",female ,208,china,FALSE
+30, 12,"changsha, hunan, china (map)",xiang2,"xiang
+(",male ,1417,china,FALSE
+36, 13,"changsha, hunan, china (map)",xiang3,"xiang
+(",male ,1522,china,FALSE
+23, 10,"zhuzhou, hunan, china (map)",xiang4,"xiang
+(",female ,2163,china,FALSE
+25, 9,"xiangtan, hunan, china (map)",xiang5,"xiang
+(",male ,2707,china,FALSE
+28, 6,"changsha, hunan, china (map)",xiang6,"xiang
+(",female ,2709,china,FALSE

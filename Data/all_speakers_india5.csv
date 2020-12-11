@@ -1,0 +1,13 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?
+34, 10,"sargodha, pakistan (map)",punjabi1,punjabi,male ,291,india,FALSE
+26, 10,"hoshiarpur, india (map)",punjabi2,punjabi,male ,292,india,FALSE
+19, 6,"moga, punjab, india (map)",punjabi3,punjabi,male ,751,india,FALSE
+33, 3,"moga, india (map)",punjabi4,punjabi,female ,836,india,FALSE
+49, 5,"ropar, punjab, india (map)",punjabi5,punjabi,male ,1612,india,FALSE
+25, 5,"lahore, pakistan (map)",punjabi6,punjabi,male ,1758,india,FALSE
+22, 5,"lahore, pakistan (map)",punjabi7,punjabi,male ,1759,india,FALSE
+44, 13,"jilandhar, punjab, india (map)",punjabi8,punjabi,male ,1782,india,FALSE
+19, 11,"kot kapura, india (map)",punjabi9,punjabi,male ,2039,india,FALSE
+22, 11,"ludhiana, india (map)",punjabi10,punjabi,male ,2040,india,FALSE
+24, 3,"ahmedabad, gujarat, india (map)",punjabi11,punjabi,male ,2308,india,FALSE
+52, 12,"sialkot, punjab, pakistan (map)",punjabi12,punjabi,female ,2476,india,FALSE

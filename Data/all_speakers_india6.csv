@@ -1,0 +1,14 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?
+39, 7,"colombo, sri lanka (map)",tamil1,tamil,male ,367,india,FALSE
+35, 4,"madras, tamil nadu, india (map)",tamil2,tamil,female ,429,india,FALSE
+26, 10,"chennai, india (map)",tamil3,tamil,male ,531,india,FALSE
+58, 3,"colombo, sri lanka (map)",tamil4,tamil,female ,1647,india,FALSE
+36, 5,"coimbatore, tamil nadu, india (map)",tamil5,tamil,female ,1723,india,FALSE
+47, 6,"bangalore, karnataka, india (map)",tamil6,tamil,female ,2076,india,FALSE
+26, 3,"dombivli, maharashtra, india (map)",tamil7,tamil,female ,2359,india,FALSE
+25, 5,"chennai, tamil nadu, india (map)",tamil8,tamil,female ,2449,india,FALSE
+28, 4,"chennai, india (map)",tamil9,tamil,female ,2453,india,FALSE
+24, 5,"chennai, india (map)",tamil10,tamil,male ,2454,india,FALSE
+23, 5,"pondicherry, india (map)",tamil11,tamil,female ,2455,india,FALSE
+23, 3,"chennai, tamil nadu, india (map)",tamil12,tamil,female ,2462,india,FALSE
+28, 3,"coimbatore, tamil nadu, india (map)",tamil13,tamil,female ,2571,india,FALSE

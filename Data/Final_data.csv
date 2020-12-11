@@ -1,0 +1,803 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?
+19.0,9.0,"shady grove, maryland, usa",arabic38,arabic,female,1394,usa,False
+32.0,12.0,"fort collins, colorado, usa",arabic45,arabic,female,1456,usa,False
+19.0,3.0,"washington, district of columbia, usa",arabic78,arabic,female,1897,usa,False
+43.0,40.0,"jianchuan, yunnan, china",bai1,bai,female,28,china,False
+34.0,3.5,"durgapur, west bengal, india",bengali11,bengali,male,1018,india,False
+26.0,4.0,"kolkata, india",bengali14,bengali,male,1973,india,False
+29.0,4.0,"jamshedpur, jharkhand, india",bengali6,bengali,male,624,india,False
+61.0,12.0,"kolkata, india",bengali9,bengali,female,987,india,False
+22.0,12.0,"hong kong, china",cantonese1,cantonese,female,45,china,False
+25.0,3.0,"xiamen, fujian, china",cantonese10,cantonese,female,505,china,False
+22.0,3.0,"hong kong, china",cantonese11,cantonese,female,544,china,False
+20.0,4.0,"macau, china",cantonese12,cantonese,female,602,china,False
+21.0,3.0,"hong kong, china",cantonese13,cantonese,female,730,china,False
+19.0,3.0,"hong kong, china",cantonese14,cantonese,female,742,china,False
+31.0,12.0,"qingyuan, guangdong, china",cantonese15,cantonese,female,862,china,False
+29.0,3.0,"hong kong, china",cantonese16,cantonese,female,874,china,False
+26.0,3.0,"hong kong, china",cantonese17,cantonese,female,878,china,False
+19.0,3.0,"hong kong, china",cantonese18,cantonese,male,885,china,False
+28.0,7.0,"hong kong, china",cantonese19,cantonese,female,1247,china,False
+20.0,13.0,"hong kong, china",cantonese2,cantonese,male,46,china,False
+18.0,3.0,"hong kong, china",cantonese20,cantonese,male,1480,china,False
+18.0,4.0,"hong kong, china",cantonese21,cantonese,female,1558,china,False
+30.0,3.0,"hong kong, china",cantonese22,cantonese,female,1974,china,False
+33.0,6.0,"hong kong, china",cantonese23,cantonese,male,1975,china,False
+22.0,6.0,"hong kong, china",cantonese3,cantonese,male,47,china,False
+29.0,13.0,"fuzhou, fujian, china",cantonese4,cantonese,female,48,china,False
+18.0,14.0,"hong kong, china",cantonese5,cantonese,male,49,china,False
+25.0,5.0,"hong kong, china",cantonese6,cantonese,male,462,china,False
+31.0,4.0,"hong kong, china",cantonese7,cantonese,male,494,china,False
+23.0,2.0,"hong kong, china",cantonese8,cantonese,female,498,china,False
+22.0,7.0,"hong kong, china",cantonese9,cantonese,male,502,china,False
+42.0,0.0,"pittsburgh, pennsylvania, usa",english1,english,male,61,usa,False
+35.0,0.0,"davenport, iowa, usa",english10,english,female,62,usa,False
+23.0,0.0,"miami, florida, usa",english100,english,female,63,usa,False
+22.0,0.0,"torrington, connecticut, usa",english102,english,male,65,usa,False
+21.0,0.0,"staten island, new york, usa",english103,english,male,66,usa,False
+18.0,0.0,"youngstown, ohio, usa",english104,english,female,67,usa,False
+39.0,0.0,"los angeles, california, usa",english106,english,female,408,usa,False
+19.0,0.0,"chicago, illinois, usa",english107,english,male,416,usa,False
+26.0,0.0,"concord, new hampshire, usa",english109,english,female,420,usa,False
+21.0,0.0,"bombay, india",english111,english,male,426,india,False
+38.0,0.0,"birmingham 2, alabama, usa",english114,english,female,442,usa,False
+56.0,0.0,"atlanta, georgia, usa",english116,english,male,444,usa,False
+60.0,0.0,"elmore, alabama, usa",english117,english,female,445,usa,False
+19.0,0.0,"akron, ohio, usa",english118,english,male,446,usa,False
+21.0,0.0,"waconia, minnesota, usa",english121,english,male,465,usa,False
+28.0,0.0,"riverside, california, usa",english123,english,female,469,usa,False
+38.0,0.0,"brooklyn, new york, usa",english124,english,male,480,usa,False
+34.0,0.0,"cincinnati, ohio, usa",english126,english,female,487,usa,False
+39.0,0.0,"new britain, connecticut, usa",english127,english,male,489,usa,False
+20.0,0.0,"miami, florida, usa",english128,english,female,490,usa,False
+23.0,0.0,"west palm beach, florida, usa",english131,english,male,497,usa,False
+36.0,0.0,"norwich, new york, usa",english133,english,female,504,usa,False
+22.0,0.0,"orange beach, alabama, usa",english135,english,male,507,usa,False
+26.0,0.0,"charleston, west virginia, usa",english137,english,male,509,usa,False
+25.0,0.0,"palmer, alaska, usa",english138,english,female,510,usa,False
+20.0,0.0,"providence, rhode island, usa",english139,english,male,511,usa,False
+19.0,0.0,"avon, new york, usa",english142,english,male,517,usa,False
+42.0,0.0,"minneapolis, minnesota, usa",english143,english,male,518,usa,False
+22.0,0.0,"blytheville, arkansas, usa",english146,english,male,522,usa,False
+40.0,0.0,"merced, california, usa",english147,english,female,523,usa,False
+18.0,0.0,"lawrenceville, georgia, usa",english149,english,male,526,usa,False
+7.0,0.0,"norton, virginia, usa",english15,english,female,72,usa,False
+31.0,0.0,"brownsville, kentucky, usa",english150,english,male,527,usa,False
+18.0,0.0,"baltimore, maryland, usa",english151,english,male,528,usa,False
+35.0,0.0,"oakland, california, usa",english155,english,male,535,usa,False
+35.0,0.0,"fort worth, texas, usa",english157,english,male,538,usa,False
+18.0,0.0,"washington, district of columbia, usa",english158,english,female,540,usa,False
+21.0,0.0,"wise, virginia, usa",english16,english,male,73,usa,False
+21.0,0.0,"redwood falls, minnesota, usa",english160,english,female,542,usa,False
+75.0,0.0,"wakefield, ohio, usa",english161,english,female,546,usa,False
+41.0,0.0,"delaware, ohio, usa",english162,english,female,548,usa,False
+41.0,0.0,"fairview park, ohio, usa",english163,english,male,547,usa,False
+43.0,0.0,"detroit, michigan, usa",english165,english,female,550,usa,False
+18.0,0.0,"glenside, pennsylvania, usa",english166,english,male,551,usa,False
+43.0,0.0,"lakeview, michigan, usa",english167,english,male,552,usa,False
+40.0,0.0,"oceanside, california, usa",english168,english,male,554,usa,False
+18.0,0.0,"cleveland, mississippi, usa",english169,english,male,555,usa,False
+79.0,0.0,"darwin va, virginia, usa",english17,english,male,74,usa,False
+50.0,0.0,"belmont, mississippi, usa",english170,english,female,556,usa,False
+21.0,0.0,"st. louis, missouri, usa",english171,english,male,563,usa,False
+19.0,0.0,"libertyville, illinois, usa",english173,english,male,567,usa,False
+24.0,0.0,"seattle, washington, usa",english175,english,male,572,usa,False
+18.0,0.0,"elizabeth city, north carolina, usa",english176,english,female,573,usa,False
+23.0,0.0,"new orleans, louisiana, usa",english177,english,female,574,usa,False
+30.0,0.0,"wilkes-barre, pennsylvania, usa",english178,english,male,583,usa,False
+57.0,0.0,"huron, south dakota, usa",english179,english,male,584,usa,False
+39.0,0.0,"dickenson county, virginia, usa",english18,english,female,75,usa,False
+20.0,0.0,"newport, rhode island, usa",english180,english,male,585,usa,False
+68.0,0.0,"new eagle, pennsylvania, usa",english181,english,male,586,usa,False
+50.0,0.0,"troy, new york, usa",english182,english,male,590,usa,False
+18.0,0.0,"hillsboro, oregon, usa",english184,english,female,597,usa,False
+39.0,0.0,"gadsden, alabama, usa",english186,english,female,605,usa,False
+42.0,0.0,"algona, iowa, usa",english187,english,female,606,usa,False
+19.0,0.0,"grand forks, north dakota, usa",english189,english,male,617,usa,False
+53.0,0.0,"louisville, kentucky, usa",english19,english,male,76,usa,False
+27.0,0.0,"oak park, illinois, usa",english190,english,male,618,usa,False
+19.0,0.0,"las cruces, new mexico, usa",english191,english,male,631,usa,False
+27.0,0.0,"east lansing, michigan, usa",english192,english,female,636,usa,False
+32.0,0.0,"honolulu, hawaii, usa",english193,english,male,637,usa,False
+21.0,0.0,"delavan, wisconsin, usa",english195,english,female,639,usa,False
+22.0,0.0,"iowa city, iowa, usa",english197,english,male,662,usa,False
+56.0,0.0,"washington, district of columbia, usa",english198,english,male,663,usa,False
+25.0,0.0,"bay shore, new york, usa",english199,english,male,664,usa,False
+27.0,0.0,"mt. holly, north carolina, usa",english20,english,female,78,usa,False
+22.0,0.0,"berkeley, california, usa",english200,english,female,667,usa,False
+26.0,0.0,"warren, michigan, usa",english201,english,female,668,usa,False
+19.0,0.0,"crisfield, maryland, usa",english202,english,male,673,usa,False
+63.0,0.0,"boston, massachusetts, usa",english203,english,female,674,usa,False
+53.0,0.0,"chicago, illinois, usa",english204,english,male,678,usa,False
+45.0,0.0,"blue earth, minnesota, usa",english205,english,female,679,usa,False
+23.0,0.0,"wilkes-barre, pennsylvania, usa",english207,english,female,684,usa,False
+46.0,0.0,"washington, dc, usa",english208,english,male,695,usa,False
+37.0,0.0,"boston, massachusetts, usa",english21,english,female,79,usa,False
+30.0,0.0,"worcester, massachusetts, usa",english211,english,male,720,usa,False
+24.0,0.0,"spartanburg, south carolina, usa",english212,english,male,729,usa,False
+38.0,0.0,"dodge city, kansas, usa",english213,english,male,734,usa,False
+26.0,0.0,"myrtle beach, south carolina, usa",english214,english,male,737,usa,False
+48.0,0.0,"chicago, illinois, usa",english216,english,female,739,usa,False
+27.0,0.0,"abingdon, virginia, usa",english218,english,female,747,usa,False
+38.0,0.0,"oakland, california, usa",english219,english,female,748,usa,False
+18.0,0.0,"anaheim, california, usa",english220,english,female,749,usa,False
+18.0,0.0,"auburn, indiana, usa",english222,english,female,764,usa,False
+18.0,0.0,"erie, pennsylvania, usa",english223,english,male,767,usa,False
+25.0,0.0,"burlington, vermont, usa",english229,english,male,775,usa,False
+43.0,0.0,"englewood, tennessee, usa",english23,english,male,81,usa,False
+22.0,0.0,"tampa, florida, usa",english231,english,male,791,usa,False
+32.0,0.0,"metairie, louisiana, usa",english232,english,female,798,usa,False
+49.0,0.0,"bloomington, indiana, usa",english234,english,male,794,usa,False
+52.0,0.0,"richmond, virginia, usa",english235,english,female,795,usa,False
+44.0,0.0,"st. charles, illinois, usa",english236,english,male,799,usa,False
+22.0,0.0,"jeffersonville, ohio, usa",english237,english,female,801,usa,False
+77.0,0.0,"laurel, mississippi, usa",english242,english,female,818,usa,False
+23.0,0.0,"san francisco, california, usa",english244,english,male,821,usa,False
+25.0,0.0,"pittsburgh, pennsylvania, usa",english245,english,male,824,usa,False
+32.0,0.0,"los angeles, california, usa",english246,english,male,825,usa,False
+18.0,0.0,"philadelphia, pennsylvania, usa",english248,english,female,840,usa,False
+29.0,0.0,"boston, massachusetts, usa",english249,english,female,850,usa,False
+57.0,0.0,"atlanta, georgia, usa",english25,english,male,83,usa,False
+21.0,0.0,"mt. kisco, new york, usa",english251,english,male,855,usa,False
+25.0,0.0,"san jose ca, california, usa",english252,english,female,856,usa,False
+39.0,0.0,"eugene, oregon, usa",english254,english,male,858,usa,False
+23.0,0.0,"laurinburg, north carolina, usa",english256,english,male,861,usa,False
+24.0,0.0,"san diego, california, usa",english257,english,male,863,usa,False
+71.0,0.0,"smith island, maryland, usa",english26,english,male,84,usa,False
+18.0,0.0,"phoenix, arizona, usa",english260,english,female,871,usa,False
+59.0,0.0,"forestville, maryland, usa",english261,english,female,875,usa,False
+60.0,0.0,"naylor, maryland, usa",english262,english,male,876,usa,False
+21.0,0.0,"oak forest, illinois, usa",english263,english,male,884,usa,False
+21.0,0.0,"freemont, california, usa",english264,english,male,889,usa,False
+31.0,0.0,"vancouver wa, washington, usa",english265,english,male,890,usa,False
+18.0,0.0,"san diego, california, usa",english266,english,male,899,usa,False
+37.0,0.0,"smith island, maryland, usa",english27,english,female,85,usa,False
+20.0,0.0,"dallas, texas, usa",english272,english,male,905,usa,False
+46.0,0.0,"blue bell, pennsylvania, usa",english273,english,male,907,usa,False
+20.0,0.0,"clifton, new jersey, usa",english275,english,female,912,usa,False
+50.0,0.0,"chattanooga, tennessee, usa",english276,english,female,918,usa,False
+48.0,0.0,"hudson, new york, usa",english277,english,female,919,usa,False
+18.0,0.0,"augusta, georgia, usa",english278,english,female,921,usa,False
+23.0,0.0,"ramsey mn, minnesota, usa",english281,english,male,937,usa,False
+20.0,0.0,"tampa, florida, usa",english282,english,male,939,usa,False
+18.0,0.0,"pelham, new york, usa",english283,english,male,951,usa,False
+33.0,0.0,"gainesville, florida, usa",english284,english,male,952,usa,False
+21.0,0.0,"beaumont, texas, usa",english286,english,female,977,usa,False
+26.0,0.0,"st. louis, missouri, usa",english288,english,female,982,usa,False
+19.0,0.0,"fairfax, virginia, usa",english289,english,female,983,usa,False
+20.0,0.0,"duluth, georgia, usa",english290,english,male,986,usa,False
+38.0,0.0,"kansas city, missouri, usa",english292,english,male,1051,usa,False
+22.0,0.0,"billings, montana, usa",english293,english,female,1052,usa,False
+19.0,0.0,"lindenhurst, new york, usa",english297,english,male,1071,usa,False
+45.0,0.0,"anaheim, california, usa",english303,english,female,1086,usa,False
+48.0,0.0,"alexandria, va, usa",english307,english,male,1100,usa,False
+38.0,0.0,"detroit, michigan, usa",english311,english,female,1110,usa,False
+28.0,0.0,"silver spring, maryland, usa",english313,english,male,1119,usa,False
+26.0,0.0,"memphis, tennessee, usa",english314,english,female,1120,usa,False
+25.0,0.0,"los angeles, california, usa",english315,english,male,1121,usa,False
+33.0,0.0,"sacramento, california, usa",english316,english,male,1122,usa,False
+26.0,0.0,"burlington, vermont, usa",english317,english,male,1132,usa,False
+50.0,0.0,"fresno, california, usa",english32,english,female,91,usa,False
+52.0,0.0,"brooklyn, new york, usa",english321,english,male,1163,usa,False
+32.0,0.0,"reading, pennsylvania, usa",english325,english,male,1176,usa,False
+53.0,0.0,"fairborn, ohio, usa",english326,english,male,1188,usa,False
+27.0,0.0,"dunedin, florida, usa",english327,english,male,1205,usa,False
+23.0,0.0,"hollywood, florida, usa",english328,english,female,1206,usa,False
+21.0,0.0,"boise, idaho, usa",english329,english,female,1207,usa,False
+21.0,0.0,"san diego, california, usa",english33,english,male,92,usa,False
+18.0,0.0,"augusta, georgia, usa",english330,english,female,1208,usa,False
+20.0,0.0,"baltimore, maryland, usa",english332,english,female,1212,usa,False
+32.0,0.0,"spokane, washington, usa",english333,english,female,1214,usa,False
+6.0,0.0,"washington, district of columbia, usa",english335,english,male,1216,usa,False
+46.0,0.0,"baltimore, maryland, usa",english336,english,female,1217,usa,False
+84.0,0.0,"jersey city, new jersey, usa",english337,english,female,1218,usa,False
+54.0,0.0,"chicago, illinois, usa",english339,english,male,1220,usa,False
+18.0,0.0,"ronkonkoma, new york, usa",english34,english,female,93,usa,False
+19.0,0.0,"charleston, west virginia, usa",english340,english,male,1222,usa,False
+23.0,0.0,"new york, new york, usa",english341,english,female,1224,usa,False
+33.0,0.0,"kansas city, missouri, usa",english342,english,male,1225,usa,False
+23.0,0.0,"portland, maine, usa",english343,english,male,1226,usa,False
+19.0,0.0,"lumberton, north carolina, usa",english344,english,female,1232,usa,False
+20.0,0.0,"kansas city, missouri, usa",english345,english,male,1233,usa,False
+60.0,0.0,"east hartford, connecticut, usa",english346,english,male,1235,usa,False
+22.0,0.0,"burnsville, minnesota, usa",english347,english,female,1236,usa,False
+24.0,0.0,"warrenton, virginia, usa",english349,english,female,1239,usa,False
+60.0,0.0,"milwaukee, wisconsin, usa",english35,english,female,94,usa,False
+37.0,0.0,"carthage, missouri, usa",english351,english,male,1242,usa,False
+19.0,0.0,"los angeles, california, usa",english355,english,male,1256,usa,False
+24.0,0.0,"alto, georgia, usa",english357,english,male,1258,usa,False
+60.0,0.0,"arcadia, wisconsin, usa",english36,english,male,95,usa,False
+19.0,0.0,"erie, pennsylvania, usa",english360,english,female,1277,usa,False
+20.0,0.0,"burnsville, minnesota, usa",english361,english,female,1280,usa,False
+27.0,0.0,"mcminnville, oregon, usa",english369,english,male,1297,usa,False
+28.0,0.0,"yole, india",english37,english,female,96,india,False
+22.0,0.0,"pondicherry, india",english370,english,male,1302,india,False
+27.0,0.0,"colorado springs, colorado, usa",english371,english,female,1303,usa,False
+80.0,0.0,"christiansburg, virginia, usa",english372,english,male,1307,usa,False
+22.0,0.0,"russellville, kentucky, usa",english373,english,male,1308,usa,False
+28.0,0.0,"manchester, connecticut, usa",english375,english,male,1312,usa,False
+46.0,0.0,"pasadena, california, usa",english376,english,male,1315,usa,False
+32.0,0.0,"trenton, michigan, usa",english377,english,female,1319,usa,False
+38.0,0.0,"silver spring, maryland, usa",english378,english,female,1320,usa,False
+43.0,0.0,"summit, new jersey, usa",english379,english,male,1321,usa,False
+34.0,0.0,"roanoke, virginia, usa",english380,english,female,1323,usa,False
+85.0,0.0,"pike county, kentucky, usa",english381,english,male,1324,usa,False
+34.0,0.0,"arlington, virginia, usa",english382,english,male,1325,usa,False
+32.0,0.0,"washington, district of columbia, usa",english383,english,female,1326,usa,False
+57.0,0.0,"williamson, west virginia, usa",english384,english,male,1327,usa,False
+77.0,0.0,"mcveigh, kentucky, usa",english385,english,female,1328,usa,False
+56.0,0.0,"los angeles, california, usa",english386,english,female,1330,usa,False
+21.0,0.0,"lancaster, california, usa",english387,english,female,1331,usa,False
+70.0,0.0,"bluefield, west virginia, usa",english388,english,female,1332,usa,False
+71.0,0.0,"aldie, virginia, usa",english389,english,female,1333,usa,False
+59.0,0.0,"new orleans, louisiana, usa",english39,english,female,98,usa,False
+74.0,0.0,"milwaukee, wisconsin, usa",english390,english,male,1334,usa,False
+84.0,0.0,"milton, florida, usa",english391,english,female,1335,usa,False
+62.0,0.0,"warrenton, virginia, usa",english392,english,male,1336,usa,False
+58.0,0.0,"washington, district of columbia, usa",english393,english,female,1337,usa,False
+82.0,0.0,"aiken, south carolina, usa",english394,english,female,1339,usa,False
+39.0,0.0,"alexandria, virginia, usa",english395,english,male,1340,usa,False
+48.0,0.0,"orange, virginia, usa",english396,english,female,1341,usa,False
+76.0,0.0,"wadesboro, north carolina, usa",english397,english,female,1342,usa,False
+83.0,0.0,"salisbury, north carolina, usa",english398,english,female,1343,usa,False
+80.0,0.0,"la grange, georgia, usa",english399,english,female,1345,usa,False
+24.0,0.0,"pensacola, florida, usa",english406,english,female,1358,usa,False
+64.0,0.0,"lynwood, california, usa",english408,english,male,1361,usa,False
+26.0,0.0,"washington, district of columbia, usa",english411,english,female,1371,usa,False
+31.0,0.0,"washington, district of columbia, usa",english412,english,female,1372,usa,False
+30.0,0.0,"woonsocket, rhode island, usa",english414,english,female,1374,usa,False
+32.0,0.0,"woonsocket, rhode island, usa",english415,english,male,1375,usa,False
+27.0,0.0,"youngstown, ohio, usa",english419,english,male,1385,usa,False
+31.0,0.0,"rochester, new york, usa",english422,english,male,1390,usa,False
+24.0,0.0,"baltimore, maryland, usa",english423,english,female,1395,usa,False
+75.0,0.0,"danville, virginia, usa",english424,english,male,1409,usa,False
+31.0,0.0,"danville, virginia, usa",english425,english,male,1410,usa,False
+30.0,0.0,"florence, south carolina, usa",english426,english,female,1411,usa,False
+68.0,0.0,"hanover, pennsylvania, usa",english427,english,female,1412,usa,False
+55.0,0.0,"kingstree, south carolina, usa",english428,english,female,1413,usa,False
+19.0,0.0,"philadelphia, pennsylvania, usa",english429,english,female,1416,usa,False
+23.0,0.0,"green bay, wisconsin, usa",english431,english,female,1423,usa,False
+32.0,0.0,"gladwin, michigan, usa",english433,english,female,1430,usa,False
+24.0,0.0,"kansas city, kansas, usa",english434,english,male,1469,usa,False
+20.0,0.0,"palm springs, california, usa",english435,english,female,1471,usa,False
+21.0,0.0,"cleveland, ohio, usa",english437,english,male,1477,usa,False
+20.0,0.0,"houston, texas, usa",english438,english,female,1492,usa,False
+63.0,0.0,"winston salem, north carolina, usa",english44,english,female,104,usa,False
+19.0,0.0,"oquawka, illinois, usa",english441,english,female,1524,usa,False
+23.0,0.0,"salisbury mills, new york, usa",english442,english,male,1528,usa,False
+31.0,0.0,"fort collins, colorado, usa",english443,english,male,1530,usa,False
+24.0,0.0,"anniston, alabama, usa",english444,english,male,1531,usa,False
+60.0,0.0,"san francisco, california, usa",english445,english,male,1532,usa,False
+23.0,0.0,"moorhead, minnesota, usa",english446,english,female,1533,usa,False
+21.0,0.0,"hartford, connecticut, usa",english447,english,male,1534,usa,False
+27.0,0.0,"barton, vermont, usa",english449,english,male,1538,usa,False
+52.0,0.0,"pine bluff, arkansas, usa",english45,english,male,105,usa,False
+44.0,0.0,"hazlehurst, georgia, usa",english451,english,male,1546,usa,False
+21.0,0.0,"chicago, illinois, usa",english453,english,female,1548,usa,False
+19.0,0.0,"raleigh, north carolina, usa",english454,english,female,1550,usa,False
+29.0,0.0,"washington, dc, usa",english455,english,female,1552,usa,False
+43.0,0.0,"syracuse, new york, usa",english457,english,male,1555,usa,False
+22.0,0.0,"reno, nevada, usa",english458,english,female,1559,usa,False
+19.0,0.0,"charlotte, north carolina, usa",english459,english,male,1560,usa,False
+73.0,0.0,"creswell, north carolina, usa",english46,english,male,106,usa,False
+44.0,0.0,"poughkeepsie, new york, usa",english461,english,female,1563,usa,False
+20.0,0.0,"paducah, kentucky, usa",english462,english,male,1564,usa,False
+53.0,0.0,"brooklyn, new york, usa",english463,english,female,1571,usa,False
+18.0,0.0,"portland, maine, usa",english466,english,male,1637,usa,False
+30.0,0.0,"myrtle beach, south carolina, usa",english468,english,male,1640,usa,False
+22.0,0.0,"knoxville, tennessee, usa",english469,english,male,1641,usa,False
+76.0,0.0,"plantersville, arkansas, usa",english47,english,female,107,usa,False
+33.0,0.0,"rochester, minnesota, usa",english474,english,female,1656,usa,False
+29.0,0.0,"ogden, utah, usa",english475,english,female,1657,usa,False
+64.0,0.0,"manchester, new hampshire, usa",english476,english,female,1658,usa,False
+31.0,0.0,"san diego, california, usa",english477,english,female,1659,usa,False
+64.0,0.0,"new york, new york, usa",english479,english,female,1664,usa,False
+58.0,0.0,"winston-salem, north carolina, usa",english480,english,male,1665,usa,False
+88.0,0.0,"stringtown, oklahoma, usa",english481,english,female,1666,usa,False
+74.0,0.0,"yeadon, pennsylvania, usa",english482,english,female,1667,usa,False
+19.0,0.0,"boston, massachusetts, usa",english483,english,male,1668,usa,False
+20.0,0.0,"cromwell, connecticut, usa",english485,english,male,1674,usa,False
+43.0,0.0,"castro valley, california, usa",english49,english,male,109,usa,False
+22.0,0.0,"omaha, nebraska, usa",english492,english,female,1716,usa,False
+20.0,0.0,"miami, florida, usa",english493,english,male,1718,usa,False
+27.5,0.0,"findlay, ohio, usa",english494,english,male,1719,usa,False
+21.0,0.0,"kirkland, washington, usa",english495,english,male,1720,usa,False
+22.0,0.0,"cleveland, ohio, usa",english497,english,male,1726,usa,False
+21.0,0.0,"st. paul, minnesota, usa",english499,english,female,1728,usa,False
+62.0,0.0,"fairfax, virginia, usa",english5,english,male,110,usa,False
+29.0,0.0,"baltic, south dakota, usa",english50,english,female,111,usa,False
+64.0,0.0,"pittsburgh, pennsylvania, usa",english501,english,female,1734,usa,False
+30.0,0.0,"farmington hills, michigan, usa",english502,english,female,1735,usa,False
+25.0,0.0,"west palm beach, florida, usa",english504,english,male,1786,usa,False
+30.0,0.0,"new orleans, louisiana, usa",english506,english,female,1799,usa,False
+20.0,0.0,"winfield, illinois, usa",english508,english,female,1801,usa,False
+44.0,0.0,"coudersport, pennsylvania, usa",english509,english,female,1802,usa,False
+67.0,0.0,"detroit, michigan, usa",english51,english,male,112,usa,False
+66.0,0.0,"philadelphia, pennsylvania, usa",english510,english,female,1803,usa,False
+31.0,0.0,"montgomery, alabama, usa",english511,english,female,1818,usa,False
+54.0,0.0,"salina, kansas, usa",english512,english,female,1819,usa,False
+57.0,0.0,"youngstown, ohio, usa",english514,english,male,1872,usa,False
+55.0,0.0,"youngstown, ohio, usa",english515,english,female,1873,usa,False
+32.0,0.0,"dripping springs, texas, usa",english516,english,female,1875,usa,False
+33.0,0.0,"colorado springs, colorado, usa",english517,english,male,1876,usa,False
+47.0,0.0,"st. paul, minnesota, usa",english520,english,female,1884,usa,False
+25.0,0.0,"bethesda, maryland, usa",english521,english,female,1886,usa,False
+22.0,0.0,"bethpage, new york, usa",english522,english,female,1887,usa,False
+18.0,0.0,"madison, wisconsin, usa",english523,english,female,1888,usa,False
+19.0,0.0,"downers grove, illinois, usa",english524,english,male,1890,usa,False
+18.0,0.0,"albion, new york, usa",english525,english,female,1893,usa,False
+20.0,0.0,"woodbridge, virginia, usa",english526,english,male,1895,usa,False
+25.0,0.0,"wynnewood, pennsylvania, usa",english527,english,female,1907,usa,False
+52.0,0.0,"green bay, wisconsin, usa",english528,english,female,1908,usa,False
+29.0,0.0,"burlington, vermont, usa",english529,english,female,1925,usa,False
+63.0,0.0,"syracuse, new york, usa",english53,english,male,114,usa,False
+50.0,0.0,"detroit, michigan, usa",english530,english,female,1926,usa,False
+29.0,0.0,"nokesville, virginia, usa",english531,english,female,1928,usa,False
+23.0,0.0,"bristol, connecticut, usa",english532,english,female,1933,usa,False
+38.0,0.0,"fairfax, virginia, usa",english533,english,female,1934,usa,False
+29.0,0.0,"mineola, new york, usa",english534,english,female,1951,usa,False
+22.0,0.0,"plymouth, massachusetts, usa",english535,english,female,1955,usa,False
+21.0,0.0,"richmond, virginia, usa",english536,english,female,1956,usa,False
+21.0,0.0,"woodbridge, virginia, usa",english537,english,female,1957,usa,False
+20.0,0.0,"lyndhurst, virginia, usa",english538,english,female,1958,usa,False
+19.0,0.0,"orange county, california, usa",english539,english,female,1959,usa,False
+40.0,0.0,"new albany, indiana, usa",english54,english,female,115,usa,False
+18.0,0.0,"arlington, virginia, usa",english540,english,female,1960,usa,False
+27.0,0.0,"fort lauderdale, florida, usa",english541,english,female,1961,usa,False
+31.0,0.0,"hanover, new hampshire, usa",english544,english,male,1970,usa,False
+56.0,0.0,"tangier island, virginia, usa",english545,english,male,1995,usa,False
+43.0,0.0,"tangier island, virginia, usa",english546,english,female,1996,usa,False
+63.0,0.0,"tangier island, virginia, usa",english547,english,male,1997,usa,False
+53.0,0.0,"st. louis, missouri, usa",english55,english,female,116,usa,False
+82.0,0.0,"fredericksburg, virginia, usa",english550,english,male,2028,usa,False
+81.0,0.0,"king george, virginia, usa",english551,english,female,2029,usa,False
+23.0,0.0,"bethesda, maryland, usa",english552,english,female,2043,usa,False
+21.0,0.0,"nashville, tennessee, usa",english553,english,male,2046,usa,False
+22.0,0.0,"hoffman estates, illinois, usa",english554,english,female,2047,usa,False
+90.0,0.0,"brooklyn, new york, usa",english555,english,male,2049,usa,False
+84.0,0.0,"brooklyn, new york, usa",english556,english,female,2050,usa,False
+23.0,0.0,"queens, new york, usa",english558,english,male,2055,usa,False
+19.0,0.0,"reston, virginia, usa",english559,english,female,2056,usa,False
+22.0,0.0,"hartford, connecticut, usa",english560,english,female,2059,usa,False
+20.0,0.0,"yorktown, virginia, usa",english561,english,female,2060,usa,False
+30.0,0.0,"florence, south carolina, usa",english562,english,female,2061,usa,False
+32.0,0.0,"manassas, virginia, usa",english563,english,male,2074,usa,False
+52.0,0.0,"casper, wyoming, usa",english564,english,male,2077,usa,False
+27.0,0.0,"portland, oregon, usa",english565,english,female,2080,usa,False
+24.0,0.0,"new york, new york, usa",english567,english,male,2101,usa,False
+86.0,0.0,"quincy, florida, usa",english568,english,female,2103,usa,False
+42.0,0.0,"parma, ohio, usa",english570,english,female,2106,usa,False
+39.0,0.0,"washington, dc, usa",english571,english,male,2113,usa,False
+51.0,0.0,"fort worth, texas, usa",english572,english,male,2121,usa,False
+46.0,0.0,"painesville, ohio, usa",english573,english,male,2124,usa,False
+24.0,0.0,"great falls, virginia, usa",english575,english,male,2165,usa,False
+63.0,0.0,"washington, dc, usa",english576,english,female,2167,usa,False
+38.0,0.0,"san leandro, california, usa",english577,english,female,2170,usa,False
+30.0,0.0,"columbus, ohio, usa",english59,english,male,120,usa,False
+45.0,0.0,"brooklyn, new york, usa",english6,english,female,121,usa,False
+18.0,0.0,"chesapeake, virginia, usa",english60,english,male,122,usa,False
+30.0,0.0,"west jordan, utah, usa",english62,english,male,124,usa,False
+21.0,0.0,"lewisville, texas, usa",english63,english,male,125,usa,False
+47.0,0.0,"lewistown, pennsylvania, usa",english65,english,male,127,usa,False
+19.0,0.0,"baltimore, maryland, usa",english66,english,male,128,usa,False
+37.0,0.0,"princeton, indiana, usa",english67,english,male,129,usa,False
+52.0,0.0,"new york, new york, usa",english68,english,male,130,usa,False
+52.0,0.0,"macon, mississippi, usa",english7,english,male,132,usa,False
+21.0,0.0,"beaumont, texas, usa",english70,english,male,133,usa,False
+20.0,0.0,"west covina, california, usa",english71,english,male,134,usa,False
+21.0,0.0,"wichita, kansas, usa",english74,english,male,137,usa,False
+32.0,0.0,"idaho falls, idaho, usa",english75,english,male,138,usa,False
+18.0,0.0,"boston, massachusetts, usa",english76,english,female,139,usa,False
+20.0,0.0,"caribou, maine, usa",english78,english,female,141,usa,False
+73.0,0.0,"boston, massachusetts, usa",english79,english,male,142,usa,False
+30.0,0.0,"st. paul, minnesota, usa",english81,english,male,145,usa,False
+50.0,0.0,"chicago, illinois, usa",english82,english,female,146,usa,False
+42.0,0.0,"winnfield, louisiana, usa",english83,english,female,147,usa,False
+50.0,0.0,"charleston, south carolina, usa",english86,english,male,150,usa,False
+18.0,0.0,"grand rapids, michigan, usa",english88,english,male,152,usa,False
+18.0,0.0,"kingston ma, massachusetts, usa",english89,english,male,153,usa,False
+48.0,0.0,"carthage, texas, usa",english9,english,female,154,usa,False
+53.0,0.0,"pittsburgh, pennsylvania, usa",english90,english,male,155,usa,False
+22.0,0.0,"wisconsin rapids, wisconsin, usa",english92,english,female,157,usa,False
+22.0,0.0,"mamou, louisiana, usa",english93,english,female,158,usa,False
+55.0,0.0,"pensacola, florida, usa",english94,english,female,159,usa,False
+18.0,0.0,"mishawaka, indiana, usa",english95,english,male,160,usa,False
+31.0,0.0,"point pleasant, new jersey, usa",english96,english,male,161,usa,False
+42.0,0.0,"wilmington nc, north carolina, usa",english97,english,male,162,usa,False
+22.0,0.0,"spokane, washington, usa",english98,english,male,163,usa,False
+52.0,0.0,"pittsburgh, pennsylvania, usa",english99,english,female,164,usa,False
+52.0,6.0,"bethesda, maryland, usa",farsi14,farsi,female,1572,usa,False
+22.0,6.0,"washington, dc, usa",french18,french,male,741,usa,False
+72.0,40.0,"pingxiang, jiangxi, china",gan1,gan,male,1632,china,False
+24.0,4.0,"bethlehem, pennsylvania, usa",greek12,greek,male,1712,usa,False
+22.0,3.0,"lancaster, pennsylvania, usa",greek14,greek,female,1816,usa,False
+20.0,15.0,"ahmedabad, india",gujarati1,gujarati,male,198,india,False
+22.0,8.0,"bombay, india",gujarati2,gujarati,male,199,india,False
+53.0,16.0,"ahmedabad, india",gujarati4,gujarati,female,610,india,False
+28.0,3.0,"bombay, india",gujarati5,gujarati,female,1016,india,False
+29.0,5.0,"kutch, gujarat, india",gujarati6,gujarati,male,1143,india,False
+40.0,4.0,"hyderabad, india",gujarati7,gujarati,female,1504,india,False
+27.0,7.0,"ahmedabad, india",gujarati8,gujarati,female,1678,india,False
+19.0,9.0,"surat, india",gujarati9,gujarati,male,2041,india,False
+27.0,2.0,"nagpur, maharashtra, india",hindi1,hindi,male,207,india,False
+19.0,10.5,"new delhi, india",hindi10,hindi,female,1202,india,False
+20.0,4.0,"chandigarh, india",hindi11,hindi,male,1437,india,False
+25.0,4.0,"allahabad, india",hindi12,hindi,female,1440,india,False
+43.0,13.0,"jaipur, india",hindi13,hindi,female,1633,india,False
+53.0,12.0,"new delhi, india",hindi14,hindi,male,1697,india,False
+23.0,1.0,"new delhi, india",hindi15,hindi,female,1794,india,False
+25.0,5.0,"new delhi, india",hindi16,hindi,male,1966,india,False
+47.0,3.0,"new delhi, india",hindi17,hindi,female,1988,india,False
+21.0,5.0,"new delhi, india",hindi18,hindi,female,2125,india,False
+31.0,3.0,"hyderabad, india",hindi2,hindi,male,587,india,False
+42.0,5.0,"jalandhar, india",hindi3,hindi,male,593,india,False
+28.0,14.0,"bhilwara, rajisthan, india",hindi4,hindi,female,765,india,False
+64.0,10.0,"hubballi, karnataka, india",hindi5,hindi,female,845,india,False
+27.0,4.0,"new delhi, india",hindi6,hindi,female,866,india,False
+60.0,5.0,"allahabad, utter pardesh, india",hindi7,hindi,female,867,india,False
+19.0,8.0,"imphal, india",hindi8,hindi,male,910,india,False
+31.0,4.0,"durgapur, west bengal, india",hindi9,hindi,male,1017,india,False
+26.0,5.0,"bangalore, india",kannada1,kannada,female,228,india,False
+19.0,16.0,"new orleans, louisiana, usa",kikongo1,kikongo,male,464,usa,False
+38.0,6.0,"hyderabad, andhra pradesh, india",konkani1,konkani,female,438,india,False
+26.0,3.0,"bayside, new york, usa",korean42,korean,male,1950,usa,False
+24.0,5.0,"kerala state, kerala state, india",malayalam1,malayalam,male,255,india,False
+29.0,5.0,"trivandrum, kerala, india",malayalam2,malayalam,female,592,india,False
+19.0,3.5,"bangalore, india",malayalam3,malayalam,female,1780,india,False
+26.0,13.0,"shanxi province, shanxi, china",mandarin1,mandarin,female,256,china,False
+19.0,3.0,"beijing, china",mandarin10,mandarin,male,491,china,False
+49.0,20.0,"dalian, liaoning, china",mandarin14,mandarin,male,719,china,False
+26.0,13.0,"wuhan, hubei, china",mandarin17,mandarin,male,796,china,False
+27.0,13.0,"qinzhou, guangxi, china",mandarin19,mandarin,male,916,china,False
+38.0,14.0,"nanjing, china",mandarin2,mandarin,female,257,china,False
+38.0,9.0,"chengdu, sichuan, china",mandarin21,mandarin,female,984,china,False
+39.0,11.0,"haikou, hainan, china",mandarin22,mandarin,female,1019,china,False
+21.0,10.0,"shanghai, china",mandarin24,mandarin,female,1089,china,False
+28.0,13.0,"wuxi, jiangsu, china",mandarin25,mandarin,female,1125,china,False
+31.0,12.0,"emei, sichuan, china",mandarin26,mandarin,female,1141,china,False
+18.0,15.0,"chengdu, sichuan, china",mandarin27,mandarin,male,1154,china,False
+45.0,15.0,"shanghai, china",mandarin28,mandarin,male,1447,china,False
+24.0,4.0,"lanzhou, gansu, china",mandarin29,mandarin,male,1490,china,False
+43.0,10.0,"jilin city, jilin, china",mandarin3,mandarin,male,258,china,False
+26.0,13.0,"wenzhou, zhejiang, china",mandarin31,mandarin,female,1519,china,False
+25.0,6.0,"beijing, china",mandarin33,mandarin,male,1541,china,False
+31.0,13.0,"shi jia zhuang, hebei, china",mandarin34,mandarin,female,1578,china,False
+27.0,12.0,"yantai, shandong, china",mandarin35,mandarin,female,1579,china,False
+32.0,10.0,"beijing, china",mandarin36,mandarin,female,1580,china,False
+32.0,12.0,"huhot, nei meng gu, china",mandarin37,mandarin,female,1581,china,False
+33.0,12.0,"changsha, hunan, china",mandarin38,mandarin,female,1582,china,False
+24.0,12.0,"tie ling, liaoning, china",mandarin39,mandarin,female,1583,china,False
+24.0,6.0,"shanghai, china",mandarin4,mandarin,female,259,china,False
+28.0,12.0,"chengdu, sichuan, china",mandarin40,mandarin,male,1614,china,False
+34.0,13.0,"songyuan, jilin, china",mandarin41,mandarin,female,1615,china,False
+47.0,16.0,"yanbian, jilin, china",mandarin42,mandarin,female,1616,china,False
+24.0,15.0,"datong, shanxi, china",mandarin43,mandarin,female,1617,china,False
+21.0,16.0,"hangzhou, zhejiang, china",mandarin44,mandarin,male,1630,china,False
+42.0,12.0,"beijing, china",mandarin45,mandarin,female,1631,china,False
+43.0,9.0,"jilin city, jilin, china",mandarin46,mandarin,female,1636,china,False
+28.0,8.0,"beijing, china",mandarin47,mandarin,female,1644,china,False
+37.0,12.0,"pingdingshan, henan, china",mandarin48,mandarin,male,1645,china,False
+21.0,10.0,"shanghai, china",mandarin49,mandarin,male,1736,china,False
+31.0,12.0,"beijing, china",mandarin5,mandarin,female,260,china,False
+25.0,10.0,"tianjin, hebei, china",mandarin51,mandarin,male,1792,china,False
+26.0,6.0,"shaoxing, zhejiang, china",mandarin52,mandarin,female,1793,china,False
+38.0,13.0,"ningbo, zhejiang, china",mandarin53,mandarin,female,1817,china,False
+25.0,10.0,"chengdu, sichuan, china",mandarin54,mandarin,female,1900,china,False
+25.0,13.0,"loudi, hunan, china",mandarin55,mandarin,female,1909,china,False
+26.0,11.0,"baoding, hebei, china",mandarin56,mandarin,female,1910,china,False
+20.0,12.0,"shanghai, china",mandarin57,mandarin,male,1990,china,False
+23.0,7.0,"superior, colorado, usa",mandarin58,mandarin,male,2000,usa,False
+20.0,6.0,"kunming, yunnan, china",mandarin59,mandarin,female,2019,china,False
+28.0,12.0,"le shan, sichuan, china",mandarin6,mandarin,female,261,china,False
+41.0,13.0,"guiyang, guizhou, china",mandarin60,mandarin,female,2109,china,False
+33.0,16.0,"shangrao, jiangxi, china",mandarin61,mandarin,female,2116,china,False
+24.0,7.0,"shanghai, china",mandarin62,mandarin,male,2117,china,False
+27.0,12.0,"jiaozuo, henan, china",mandarin63,mandarin,male,2119,china,False
+24.0,10.0,"fuzhou, fujian, china",mandarin64,mandarin,female,2129,china,False
+20.0,5.0,"tianjin, hebei, china",mandarin65,mandarin,female,2173,china,False
+22.0,5.0,"berkeley, california, usa",mandarin7,mandarin,male,262,usa,False
+29.0,12.0,"jingmen, hubei, china",mandarin8,mandarin,male,430,china,False
+38.0,12.0,"shanghai, china",mandarin9,mandarin,male,451,china,False
+21.0,3.0,"bombay, india",marathi1,marathi,female,264,india,False
+28.0,10.0,"madras, india",marathi2,marathi,male,265,india,False
+31.0,2.0,"bombay, india",marathi3,marathi,male,837,india,False
+25.0,5.0,"jining, inner mongolia, china",mongolian8,mongolian,male,1842,china,False
+24.0,12.0,"shangri-la, yunnan, china",naxi1,naxi,female,2164,china,False
+35.0,5.0,"bargarh, orissa, india",oriya1,oriya,male,475,india,False
+32.0,6.0,"orissa, india",oriya2,oriya,male,1084,india,False
+22.0,11.0,"ludhiana, india",punjabi10,punjabi,male,2040,india,False
+26.0,10.0,"hoshiarpur, india",punjabi2,punjabi,male,292,india,False
+19.0,6.0,"moga, punjab, india",punjabi3,punjabi,male,751,india,False
+33.0,3.0,"moga, india",punjabi4,punjabi,female,836,india,False
+49.0,5.0,"ropar, punjab, india",punjabi5,punjabi,male,1612,india,False
+44.0,13.0,"jilandhar, punjab, india",punjabi8,punjabi,male,1782,india,False
+19.0,11.0,"kot kapura, india",punjabi9,punjabi,male,2039,india,False
+25.0,5.0,"brooklyn, new york, usa",russian39,russian,female,1750,usa,False
+20.0,5.0,"miami, florida, usa",spanish72,spanish,female,1238,usa,False
+21.0,6.0,"alexandria, virginia, usa",tagalog17,tagalog,male,2146,usa,False
+21.0,7.0,"taishan, guangdong, china",taishan1,taishan,male,362,china,False
+35.0,4.0,"madras, tamil nadu, india",tamil2,tamil,female,429,india,False
+26.0,10.0,"chennai, india",tamil3,tamil,male,531,india,False
+36.0,5.0,"coimbatore, tamil nadu, india",tamil5,tamil,female,1723,india,False
+47.0,6.0,"bangalore, karnataka, india",tamil6,tamil,female,2076,india,False
+31.0,6.0,"kadapa, india",telugu1,telugu,male,369,india,False
+18.0,6.0,"guntur, andhra pradesh, india",telugu2,telugu,male,370,india,False
+59.0,8.0,"guangdong province, guangdong, china",teochew1,teochew,female,569,china,False
+20.0,7.0,"mysore, india",tibetan3,tibetan,female,376,india,False
+19.0,5.0,"woodbridge, virginia, usa",twi5,twi,male,2001,usa,False
+24.0,3.0,"bangalore, india",urdu6,urdu,female,1014,india,False
+20.0,5.0,"alexandria, virginia, usa",urdu9,urdu,female,1539,usa,False
+46.0,45.0,"urumqi, xin jiang, china",uyghur1,uyghur,female,392,china,False
+34.0,32.0,"kashgar, china",uyghur2,uyghur,female,826,china,False
+49.0,29.0,"urumqi, xin jiang, china",uyghur3,uyghur,female,1703,china,False
+30.0,12.0,"taizhou, zhejiang, china",wu1,wu,female,1646,china,False
+30.0,12.0,"changsha, hunan, china",xiang2,xiang,male,1417,china,False
+36.0,13.0,"changsha, hunan, china",xiang3,xiang,male,1522,china,False
+23.0,10.0,"zhuzhou, hunan, china",xiang4,xiang,female,2163,china,False
+52.0,5.0,"brooklyn, new york, usa",yiddish3,yiddish,male,1161,usa,False
+31.0,1.0,"bethel, alaska, usa",yupik1,yupik,female,571,usa,False
+23.0,3.0,"hong kong, china (map)",cantonese24,cantone,female ,2223,china,False
+23.0,3.0,"hong kong, china (map)",cantonese25,cantone,male ,2234,china,False
+26.0,6.0,"hong kong, china (map)",cantonese26,cantone,female ,2320,china,False
+20.0,15.0,"ho chi minh city, vietnam (map)",cantonese27,cantone,male ,2330,china,False
+25.0,7.0,"guangzhou, china (map)",cantonese28,cantone,female ,2408,china,False
+20.0,6.0,"hong kong, china (map)",cantonese29,cantone,male ,2481,china,False
+25.0,6.0,"guangzhou, china (map)",cantonese30,cantone,female ,2556,china,False
+21.0,6.0,"guangzhou, guangdong, china (map)",cantonese31,cantone,male ,2565,china,False
+26.0,7.0,"fuzhou, fujian, china (map)",cantonese32,cantone,female ,2704,china,False
+25.0,7.0,"hong kong, china (map)",cantonese33,cantone,female ,2706,china,False
+19.0,6.0,"hong kong, china (map)",cantonese34,cantone,male ,2710,china,False
+21.0,9.0,"foshan, guangdong, china (map)",cantonese35,cantone,male ,2854,china,False
+45.0,7.0,"singapore, singapore (map)",hainanese1,hainane,male ,914,china,False
+72.0,13.0,"pei kang, taiwan (map)",hakka1,"hakka
+(",female ,1655,china,False
+19.0,11.0,"ganzhou, jiangxi, china (map)",hakka2,"hakka
+(",female ,2241,china,False
+20.0,12.0,"pingxiang, jiangxi, china (map)",hakka3,"hakka
+(",female ,2305,china,False
+53.0,13.0,"kao-hsiung, taiwan (map)",mandarin11,mandari,female ,607,china,False
+23.0,1.0,"singapore, singapore (map)",mandarin12,mandari,male ,623,china,False
+29.0,13.0,"nantou, taiwan (map)",mandarin13,mandari,male ,685,china,False
+28.0,11.0,"tainan, taiwan (map)",mandarin15,mandari,female ,746,china,False
+32.0,10.0,"taipei, taiwan (map)",mandarin16,mandari,male ,750,china,False
+29.0,13.0,"taoyuan, taiwan (map)",mandarin18,mandari,female ,872,china,False
+46.0,13.0,"kao-hsiung, taiwan (map)",mandarin23,mandari,female ,1044,china,False
+27.0,13.0,"taipei, taiwan (map)",mandarin30,mandari,male ,1491,china,False
+23.0,12.0,"taipei, taiwan (map)",mandarin32,mandari,female ,1527,china,False
+25.0,9.0,"hsinchu, taiwan (map)",mandarin50,mandari,male ,1788,china,False
+22.0,19.0,"shanghai, china (map)",mandarin66,mandari,female ,2252,china,False
+23.0,13.0,"nanjing, china (map)",mandarin67,mandari,male ,2274,china,False
+23.0,10.0,"dongyang, zhejiang, china (map)",mandarin68,mandari,male ,2281,china,False
+22.0,12.0,"taizhou, jiangsu, china (map)",mandarin69,mandari,male ,2282,china,False
+21.0,8.0,"shanghai, china (map)",mandarin70,mandari,female ,2291,china,False
+20.0,6.0,"chengdu, sichuan, china (map)",mandarin71,mandari,female ,2294,china,False
+22.0,10.0,"taichung, taiwan (map)",mandarin72,mandari,female ,2306,china,False
+27.0,10.0,"chengdu, sichuan, china (map)",mandarin73,mandari,female ,2319,china,False
+19.0,13.0,"shenzhen, china (map)",mandarin74,mandari,male ,2323,china,False
+20.0,13.0,"taipei, taiwan (map)",mandarin75,mandari,male ,2332,china,False
+29.0,12.0,"zhengzhou, henan, china (map)",mandarin76,mandari,male ,2348,china,False
+20.0,8.0,"jingjiang, jiangsu, china (map)",mandarin77,mandari,female ,2355,china,False
+20.0,6.0,"ganzhou, jiangxi, china (map)",mandarin78,mandari,female ,2360,china,False
+21.0,10.0,"xi'an, shanxi, china (map)",mandarin80,mandari,male ,2413,china,False
+22.0,10.0,"suzhou, jiangsu, china (map)",mandarin81,mandari,female ,2414,china,False
+23.0,13.0,"wuhai, china (map)",mandarin82,mandari,female ,2418,china,False
+26.0,12.0,"zhengzhou, henan, china (map)",mandarin83,mandari,female ,2419,china,False
+24.0,10.0,"zhengzhou, henan, china (map)",mandarin84,mandari,female ,2420,china,False
+23.0,10.0,"changsha, hunan, china (map)",mandarin85,mandari,female ,2421,china,False
+22.0,7.0,"shenyang, liaoning, china (map)",mandarin86,mandari,female ,2423,china,False
+22.0,7.0,"lanzhou, gansu, china (map)",mandarin87,mandari,female ,2435,china,False
+23.0,8.0,"anqing, anhui, china (map)",mandarin88,mandari,male ,2447,china,False
+19.0,12.0,"taiyuan, shanxi, china (map)",mandarin89,mandari,male ,2448,china,False
+27.0,8.0,"chengdu, sichuan, china (map)",mandarin90,mandari,male ,2461,china,False
+22.0,13.0,"tongcheng, anhui, china (map)",mandarin91,mandari,male ,2463,china,False
+23.0,10.0,"huai'an, jiangsu, china (map)",mandarin92,mandari,female ,2469,china,False
+22.0,6.0,"xi'an, shanxi, china (map)",mandarin93,mandari,female ,2474,china,False
+23.0,8.0,"baotou, inner mongolia, china (map)",mandarin94,mandari,male ,2477,china,False
+29.0,11.0,"yangxin, hubei, china (map)",mandarin95,mandari,female ,2483,china,False
+27.0,9.0,"qingdao, shandong, china (map)",mandarin96,mandari,female ,2494,china,False
+28.0,11.0,"jiujiang, jiangxi, china (map)",mandarin97,mandari,female ,2523,china,False
+25.0,11.0,"nanchang, jiangxi, china (map)",mandarin98,mandari,female ,2524,china,False
+26.0,9.0,"nanchang, jiangxi, china (map)",mandarin99,mandari,female ,2529,china,False
+25.0,13.0,"wuhan, hubei, china (map)",mandarin100,mandari,female ,2530,china,False
+23.0,10.0,"jiujiang, jiangxi, china (map)",mandarin101,mandari,female ,2531,china,False
+27.0,10.0,"huanggang, hubei, china (map)",mandarin102,mandari,female ,2532,china,False
+27.0,12.0,"le shan, sichuan, china (map)",mandarin103,mandari,female ,2538,china,False
+29.0,7.0,"beijing, china (map)",mandarin104,mandari,female ,2539,china,False
+26.0,12.0,"tongliao, inner mongolia, china (map)",mandarin105,mandari,female ,2540,china,False
+25.0,2.0,"xi'an, shanxi, china (map)",mandarin106,mandari,female ,2542,china,False
+26.0,8.0,"taiyuan, shanxi, china (map)",mandarin107,mandari,female ,2554,china,False
+26.0,14.0,"nanning, guangxi, china (map)",mandarin108,mandari,female ,2557,china,False
+23.0,4.0,"xi'an, shanxi, china (map)",mandarin109,mandari,female ,2559,china,False
+24.0,7.0,"panjin, liaoning, china (map)",mandarin110,mandari,female ,2560,china,False
+23.0,6.0,"beijing, china (map)",mandarin111,mandari,female ,2562,china,False
+26.0,6.0,"tianjin, china (map)",mandarin112,mandari,male ,2564,china,False
+29.0,10.0,"hohhot, inner mongolia, china (map)",mandarin113,mandari,male ,2566,china,False
+19.0,13.0,"beijing, china (map)",mandarin114,mandari,female ,2599,china,False
+19.0,5.0,"urumqi, xinjiang, china (map)",mandarin115,mandari,male ,2675,china,False
+24.0,9.0,"baotou, inner mongolia, china (map)",mandarin116,mandari,male ,2677,china,False
+25.0,9.0,"changchun, jilin, china (map)",mandarin117,mandari,male ,2678,china,False
+24.0,9.0,"xi'an, shanxi, china (map)",mandarin118,mandari,female ,2679,china,False
+24.0,7.0,"changchun, jilin, china (map)",mandarin119,mandari,female ,2699,china,False
+24.0,10.0,"chengde, hebei, china (map)",mandarin120,mandari,male ,2700,china,False
+30.0,13.0,"huangshan, anhui, china (map)",mandarin121,mandari,female ,2708,china,False
+26.0,6.0,"xi'an, shanxi, china (map)",mandarin122,mandari,male ,2711,china,False
+21.0,6.0,"chengdu, sichuan, china (map)",mandarin123,mandari,male ,2714,china,False
+33.0,13.0,"chongqing, china (map)",mandarin124,mandari,female ,2716,china,False
+24.0,6.0,"changchun, jilin, china (map)",mandarin125,mandari,female ,2719,china,False
+24.0,8.0,"yulin, shanxi, china (map)",mandarin126,mandari,male ,2726,china,False
+25.0,15.0,"shenyang, liaoning, china (map)",mandarin127,mandari,male ,2748,china,False
+21.0,7.0,"cixi, zhejiang, china (map)",mandarin128,mandari,female ,2772,china,False
+22.0,12.0,"luoyang, henan, china (map)",mandarin129,mandari,female ,2773,china,False
+22.0,7.0,"weifang, shandong, china (map)",mandarin130,mandari,female ,2798,china,False
+20.0,6.0,"shenzhen, guangdong, china (map)",mandarin131,mandari,male ,2836,china,False
+21.0,2.0,"dangyang, hubei, china (map)",mandarin132,mandari,female ,2837,china,False
+26.0,10.0,"beijing, china (map)",mandarin133,mandari,female ,2876,china,False
+27.0,9.0,"luoyang, henan, china (map)",mandarin134,mandari,male ,2877,china,False
+25.0,9.0,"langfang, hebei, china (map)",mandarin135,mandari,male ,2878,china,False
+20.0,10.0,"shenyang, liaoning, china (map)",mandarin136,mandari,female ,2879,china,False
+20.0,10.0,"xi'an, shanxi, china (map)",mandarin137,mandari,female ,2880,china,False
+21.0,7.0,"chongqing, china (map)",mandarin138,mandari,female ,2881,china,False
+23.0,14.0,"kunming, yunnan, china (map)",mandarin139,mandari,male ,2882,china,False
+22.0,7.0,"xuzhou, jiangsu, china (map)",mandarin140,mandari,male ,2883,china,False
+21.0,6.0,"beijing, china (map)",mandarin141,mandari,female ,2884,china,False
+23.0,6.0,"chengdu, sichuan, china (map)",mandarin142,mandari,female ,2885,china,False
+25.0,10.0,"fuyang, anhui, china (map)",mandarin143,mandari,female ,2886,china,False
+20.0,10.0,"wuhu, anhui, china (map)",mandarin144,mandari,male ,2887,china,False
+21.0,4.0,"qingdao, shandong, china (map)",mandarin145,mandari,female ,2888,china,False
+24.0,6.0,"xi'an, shanxi, china (map)",mandarin146,mandari,female ,2890,china,False
+19.0,9.0,"nanyang, henan, china (map)",mandarin147,mandari,female ,2891,china,False
+19.0,6.0,"nanyang, henan, china (map)",mandarin148,mandari,female ,2892,china,False
+19.0,6.0,"fuzhou, fujian, china (map)",mandarin149,mandari,female ,2893,china,False
+18.0,12.0,"taiyuan, shanxi, china (map)",mandarin150,mandari,female ,2936,china,False
+31.0,8.0,"wuxi, jiangsu, china (map)",mandarin151,mandari,female ,2942,china,False
+25.0,6.0,"dongguan, guangdong, china (map)",minnan1,min nan,male ,2712,china,False
+36.0,13.0,"ping tung, taiwan (map)",taiwanese1,taiwane,female ,363,china,False
+24.0,17.0,"taipei, taiwan (map)",taiwanese2,taiwane,female ,364,china,False
+30.0,13.0,"tainan, taiwan (map)",taiwanese3,taiwane,female ,365,china,False
+45.0,21.0,"kao-hsiung, taiwan (map)",taiwanese4,taiwane,female ,366,china,False
+27.0,15.0,"tainan, taiwan (map)",taiwanese5,taiwane,male ,481,china,False
+33.0,13.0,"tai chung, taiwan (map)",taiwanese6,taiwane,female ,828,china,False
+65.0,35.0,"taipei, taiwan (map)",taiwanese7,taiwane,female ,1864,china,False
+54.0,13.0,"tainan, taiwan (map)",taiwanese8,taiwane,female ,2136,china,False
+45.0,25.0,"tai chung, taiwan (map)",taiwanese9,taiwane,male ,2347,china,False
+27.0,5.0,"taipei, taiwan (map)",taiwanese10,taiwane,male ,2686,china,False
+23.0,4.0,"taipei, taiwan (map)",taiwanese11,taiwane,male ,2687,china,False
+23.0,5.0,"shanghai, china (map)",wu2,"wu
+(wuu",male ,2424,china,False
+19.0,7.0,"shanghai, china (map)",wu3,"wu
+(wuu",female ,2511,china,False
+28.0,7.0,"nantong, jiangsu, china (map)",wu4,"wu
+(wuu",female ,2702,china,False
+20.0,8.0,"nantong, jiangsu, china (map)",wu5,"wu
+(wuu",male ,2713,china,False
+21.0,10.0,"shaoxing, zhejiang, china (map)",wu6,"wu
+(wuu",male ,2727,china,False
+50.0,14.0,"taipei, taiwan (map)",xiang1,"xiang
+(",female ,208,china,False
+25.0,9.0,"xiangtan, hunan, china (map)",xiang5,"xiang
+(",male ,2707,china,False
+28.0,6.0,"changsha, hunan, china (map)",xiang6,"xiang
+(",female ,2709,china,False
+40.0,12.0,"ping tong, taiwan (map)",mandarin20,mandarin,female ,931,china,False
+19.0,2.0,"johor bahru, malaysia (map)",mandarin79,mandarin,female ,2365,china,False
+28.0,2.0,"limerick, ireland (map)",gujarati3,gujarat,female ,200,india,False
+24.0,7.0,"bombay, india (map)",gujarati10,gujarat,male ,2292,india,False
+25.0,7.0,"jamnagar, gujarat, india (map)",gujarati11,gujarat,male ,2301,india,False
+23.0,5.0,"rajkot, gujarat, india (map)",gujarati12,gujarat,female ,2357,india,False
+25.0,5.0,"bombay, maharashtra, india (map)",gujarati13,gujarat,female ,2409,india,False
+23.0,3.0,"bombay, india (map)",gujarati14,gujarat,male ,2416,india,False
+20.0,3.0,"rajkot, india (map)",gujarati15,gujarat,female ,2498,india,False
+20.0,3.0,"bombay, india (map)",gujarati16,gujarat,female ,2558,india,False
+50.0,16.0,"bombay, india (map)",gujarati17,gujarat,female ,2824,india,False
+19.0,0.0,"irving, texas, usa (map)",hindi19,hindi,male ,2206,india,False
+27.0,4.0,"hazaribagh, jharkhand, india (map)",hindi20,hindi,male ,2209,india,False
+26.0,4.0,"faridabad, haryana, india (map)",hindi21,hindi,male ,2236,india,False
+28.0,5.0,"meerut, uttar pradesh, india (map)",hindi22,hindi,male ,2242,india,False
+25.0,3.0,"raj nagar, rajasthan, india (map)",hindi23,hindi,male ,2303,india,False
+23.0,2.0,"jamshedpur, jharkhand, india (map)",hindi24,hindi,female ,2352,india,False
+24.0,6.0,"pune, maharashtra, india (map)",hindi25,hindi,male ,2353,india,False
+25.0,6.0,"kolkata, west bengal, india (map)",hindi26,hindi,male ,2354,india,False
+22.0,5.0,"surat, gujarat, india (map)",hindi27,hindi,male ,2356,india,False
+21.0,5.0,"patna, india (map)",hindi28,hindi,male ,2366,india,False
+24.0,3.0,"chennai, tamil nadu, india (map)",hindi29,hindi,male ,2459,india,False
+37.0,5.0,"ludhiana, india (map)",hindi30,hindi,female ,2478,india,False
+36.0,5.0,"rajkot, gujarat, india (map)",hindi31,hindi,female ,2609,india,False
+27.0,9.0,"new delhi, india (map)",hindi32,hindi,female ,2703,india,False
+44.0,6.0,"hyderabad, india (map)",hindi33,hindi,female ,2764,india,False
+29.0,5.0,"pune, india (map)",hindi34,hindi,male ,2937,india,False
+22.0,10.0,"bangalore, india (map)",kannada2,kannada,male ,2237,india,False
+24.0,4.0,"hassan, karnataka, india (map)",kannada3,kannada,male ,2286,india,False
+23.0,4.0,"detroit, michigan, usa (map)",kannada4,kannada,female ,2287,india,False
+26.0,5.0,"hubballi, karnataka, india (map)",kannada5,kannada,male ,2350,india,False
+25.0,5.0,"karwar, karnataka, india (map)",kannada6,kannada,male ,2351,india,False
+24.0,5.0,"bangalore, karnataka, india (map)",kannada7,kannada,female ,2358,india,False
+25.0,6.0,"bangalore, karnataka, india (map)",kannada8,kannada,male ,2363,india,False
+23.0,3.0,"bangalore, karnataka, india (map)",kannada9,kannada,male ,2458,india,False
+18.0,3.0,"dubai, united arab emirates (map)",malayalam4,malayal,female ,1857,india,False
+18.0,6.0,"bangalore, india (map)",malayalam5,malayal,female ,2337,india,False
+27.0,10.0,"kasaragod, kerala, india (map)",malayalam6,malayal,male ,2578,india,False
+25.0,11.0,"bangalore, kerala, india (map)",malayalam7,malayal,male ,2579,india,False
+34.0,10.0,"sargodha, pakistan (map)",punjabi1,punjabi,male ,291,india,False
+25.0,5.0,"lahore, pakistan (map)",punjabi6,punjabi,male ,1758,india,False
+22.0,5.0,"lahore, pakistan (map)",punjabi7,punjabi,male ,1759,india,False
+24.0,3.0,"ahmedabad, gujarat, india (map)",punjabi11,punjabi,male ,2308,india,False
+52.0,12.0,"sialkot, punjab, pakistan (map)",punjabi12,punjabi,female ,2476,india,False
+39.0,7.0,"colombo, sri lanka (map)",tamil1,tamil,male ,367,india,False
+58.0,3.0,"colombo, sri lanka (map)",tamil4,tamil,female ,1647,india,False
+26.0,3.0,"dombivli, maharashtra, india (map)",tamil7,tamil,female ,2359,india,False
+25.0,5.0,"chennai, tamil nadu, india (map)",tamil8,tamil,female ,2449,india,False
+28.0,4.0,"chennai, india (map)",tamil9,tamil,female ,2453,india,False
+24.0,5.0,"chennai, india (map)",tamil10,tamil,male ,2454,india,False
+23.0,5.0,"pondicherry, india (map)",tamil11,tamil,female ,2455,india,False
+23.0,3.0,"chennai, tamil nadu, india (map)",tamil12,tamil,female ,2462,india,False
+28.0,3.0,"coimbatore, tamil nadu, india (map)",tamil13,tamil,female ,2571,india,False
+25.0,5.0,"bellary, karnataka, india (map)",telugu3,telugu,male ,2211,india,False
+22.0,5.0,"hyderabad, india (map)",telugu4,telugu,male ,2213,india,False
+21.0,4.0,"khammam, telangana, india (map)",telugu5,telugu,male ,2228,india,False
+23.0,4.0,"hyderabad, india (map)",telugu6,telugu,male ,2280,india,False
+23.0,3.0,"hyderabad, india (map)",telugu7,telugu,male ,2339,india,False
+22.0,2.0,"guntur, andhra pradesh, india (map)",telugu8,telugu,male ,2422,india,False
+24.0,7.0,"vijayawada, andhra pradesh, india (map)",telugu9,telugu,male ,2460,india,False
+21.0,14.0,"hyderabad, india (map)",telugu10,telugu,male ,2465,india,False
+26.0,6.0,"hyderabad, india (map)",telugu11,telugu,male ,2512,india,False
+18.0,3.0,"edison, new jersey, usa (map)",telugu12,telugu,female ,2601,india,False
+25.0,5.0,"hyderabad, india (map)",telugu13,telugu,male ,2603,india,False
+19.0,17.0,"tenali, india (map)",telugu14,telugu,female ,2848,india,False
+23.0,16.0,"dhaka, bangladesh (map)",bengali1,bengali,male ,34,india,False
+25.0,2.0,"lusaka, zambia (map)",bengali2,bengali,female ,35,india,False
+19.0,5.0,"dhaka, bangladesh (map)",bengali3,bengali,female ,36,india,False
+24.0,6.0,"chittagong, bangladesh (map)",bengali4,bengali,male ,37,india,False
+40.0,5.0,"dhaka, bangladesh (map)",bengali5,bengali,female ,622,india,False
+49.0,6.0,"mymensingh, bangladesh (map)",bengali7,bengali,male ,710,india,False
+54.0,5.0,"noakhali, bangladesh (map)",bengali8,bengali,male ,709,india,False
+18.0,3.0,"dhaka, bangladesh (map)",bengali10,bengali,female ,1009,india,False
+25.0,4.0,"sylhet, bangladesh (map)",bengali12,bengali,female ,1682,india,False
+33.0,10.0,"dhaka, bangladesh (map)",bengali13,bengali,female ,1825,india,False
+46.0,8.0,"dhaka, bangladesh (map)",bengali15,bengali,female ,2004,india,False
+24.0,6.0,"dhaka, bangladesh (map)",bengali16,bengali,female ,2073,india,False
+19.0,6.0,"sylhet, bangladesh (map)",bengali17,bengali,female ,2139,india,False
+20.0,17.0,"dhaka, bangladesh (map)",bengali18,bengali,female ,2318,india,False
+25.0,3.0,"hyderabad, telangana, india (map)",bengali19,bengali,female ,2349,india,False
+23.0,5.0,"chittagong, bangladesh (map)",bengali20,bengali,male ,2792,india,False
+25.0,0.0,"panama city, panama (map)",english22,english,female ,80,usa,False
+19.0,0.0,"fort kobbe, panama (map)",english239,english,male ,803,usa,False
+59.0,0.0,"windsor, ontario, canada (map)",english299,english,male ,1075,usa,False
+29.0,0.0,"arlington, virginia (map)",english418,english,male ,1384,usa,False
+38.0,0.0,"landstuhl, germany (map)",english421,english,male ,1388,usa,False
+23.0,1.0,"pozzuoli, italy (map)",english467,english,male ,1639,usa,False
+26.0,0.0,"rota, spain (map)",english472,english,male ,1649,usa,False
+50.0,0.0,"beirut, lebanon (map)",english505,english,female ,1798,usa,False
+25.0,2.0,"sharjah, united arab emirates (map)",english557,english,female ,2053,usa,False
+21.0,0.0,"rochester, new york, usa (map)",english580,english,male ,2185,usa,False
+27.0,0.0,"monterey, california, usa (map)",english584,english,male ,2197,usa,False
+26.0,0.0,"dumfries, virginia, usa (map)",english585,english,female ,2207,usa,False
+21.0,0.0,"chesterfield, virginia, usa (map)",english586,english,female ,2221,usa,False
+27.0,0.0,"philadelphia, pennsylvania, usa (map)",english587,english,female ,2225,usa,False
+21.0,0.0,"fairfax, virginia, usa (map)",english588,english,female ,2361,usa,False
+19.0,0.0,"lakeland, florida, usa (map)",english590,english,female ,2374,usa,False
+20.0,0.0,"colorado springs, colorado, usa (map)",english591,english,female ,2375,usa,False
+29.0,0.0,"miami, florida, usa (map)",english592,english,female ,2376,usa,False
+24.0,0.0,"boston, massachusetts, usa (map)",english593,english,female ,2377,usa,False
+20.0,0.0,"richmond, virginia, usa (map)",english594,english,female ,2378,usa,False
+21.0,0.0,"leesburg, virginia, usa (map)",english595,english,female ,2379,usa,False
+22.0,0.0,"baltimore, maryland, usa (map)",english596,english,female ,2380,usa,False
+26.0,0.0,"fairfax, virginia, usa (map)",english597,english,male ,2381,usa,False
+29.0,0.0,"mitchell, south dakota, usa (map)",english598,english,male ,2382,usa,False
+20.0,1.0,"alexandria, virginia, usa (map)",english599,english,female ,2383,usa,False
+32.0,0.0,"portland, oregon, usa (map)",english600,english,female ,2385,usa,False
+49.0,0.0,"fairfax, virginia, usa (map)",english601,english,male ,2404,usa,False
+41.0,0.0,"new york, new york, usa (map)",english602,english,female ,2405,usa,False
+18.0,0.0,"los angeles, california, usa (map)",english603,english,male ,2428,usa,False
+93.0,0.0,"pensacola, florida, usa (map)",english614,english,female ,2606,usa,False
+23.0,0.0,"fort wayne, indiana, usa (map)",english616,english,male ,2619,usa,False
+58.0,0.0,"fullerton, california, usa (map)",english618,english,male ,2674,usa,False
+21.0,0.0,"jackson, tennessee, usa (map)",english619,english,male ,2724,usa,False
+19.0,0.0,"pittsburgh, pennsylvania, usa (map)",english621,english,female ,2793,usa,False
+21.0,0.0,"st. paul, minnesota, usa (map)",english622,english,female ,2799,usa,False
+19.0,0.0,"fort wayne, indiana, usa (map)",english623,english,male ,2803,usa,False
+18.0,0.0,"washington, district of columbia, usa (map)",english624,english,male ,2804,usa,False
+20.0,0.0,"minneapolis, minnesota, usa (map)",english625,english,male ,2805,usa,False
+21.0,0.0,"hammond, indiana, usa (map)",english626,english,female ,2806,usa,False
+55.0,0.0,"pittsburgh, pennsylvania, usa (map)",english628,english,male ,2855,usa,False
+20.0,0.0,"south riding, virginia, usa (map)",english629,english,female ,2894,usa,False
+21.0,0.0,"woodbridge, virginia, usa (map)",english630,english,female ,2895,usa,False

@@ -1,0 +1,8 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?
+24, 5,"kerala state, kerala state, india (map)",malayalam1,malayal,male ,255,india,FALSE
+29, 5,"trivandrum, kerala, india (map)",malayalam2,malayal,female ,592,india,FALSE
+19, 3.5,"bangalore, india (map)",malayalam3,malayal,female ,1780,india,FALSE
+18, 3,"dubai, united arab emirates (map)",malayalam4,malayal,female ,1857,india,FALSE
+18, 6,"bangalore, india (map)",malayalam5,malayal,female ,2337,india,FALSE
+27, 10,"kasaragod, kerala, india (map)",malayalam6,malayal,male ,2578,india,FALSE
+25, 11,"bangalore, kerala, india (map)",malayalam7,malayal,male ,2579,india,FALSE
