@@ -31,16 +31,15 @@ Capstone
   4) Predict accent for a single audio file using trained model.
 
 # Audio EDA 
+
   # Audio Waveplot
-    ![](http://localhost:8888/view/Capstone/images/audio_waveplot.png)
+     ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/audio_waveplot.png)
 
   # Spectogram 
-      ![](http://localhost:8888/view/Capstone/images/spectogram.png)
+      ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/spectogram.png)
       
   # MFCC 
-    ![](http://localhost:8888/view/Capstone/images/MFCC.png)
-
-  ## Models used
+    ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/MFCC.png)
 
   Feed Forward Neural Network – to check baseline
     1) Simple Vector Machine – LinearSVC
