@@ -37,7 +37,7 @@ Capstone
       ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/spectogram.png)
       
   ## MFCC 
-    ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/MFCC.png)
+    ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/MFCC.png?raw=true)
 
   # Models used
 
