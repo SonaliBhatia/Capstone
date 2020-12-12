@@ -33,13 +33,13 @@ Capstone
 # Audio EDA 
 
   # Audio Waveplot
-     ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/audio_waveplot.png)
+     ![Wave_plot](https://github.com/SonaliBhatia/Capstone/blob/main/images/audio_waveplot.png)
 
   # Spectogram 
-      ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/spectogram.png)
+      ![spectogram](https://user-images.githubusercontent.com/70871127/101969677-baae2a00-3bf3-11eb-8c55-03f76ed36236.png)
       
   # MFCC 
-    ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/MFCC.png)
+    ![MFCC](https://raw.github.com/SonaliBhatia/Capstone/blob/main/images/MFCC.png)
 
   Feed Forward Neural Network – to check baseline
     1) Simple Vector Machine – LinearSVC
