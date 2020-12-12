@@ -30,16 +30,16 @@ Capstone
   4) Predict accent for a single audio file using trained model.
 
   # Audio EDA 
-  # Audio Waveplot
+  ## Audio Waveplot
     ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/audio_waveplot.png)
 
-  # Spectogram 
+  ## Spectogram 
       ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/spectogram.png)
       
-  # MFCC 
+  ## MFCC 
     ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/MFCC.png)
 
-  ## Models used
+  # Models used
 
   Feed Forward Neural Network – to check baseline
     1) Simple Vector Machine – LinearSVC
@@ -48,7 +48,7 @@ Capstone
     4) CNN with SMOTE 
     5) CNN with Undersampling
 
-  Results :
+ # Results :
 
   
  | Train Accuracy               | Test Accuracy | Predictability  (Y/N) |
@@ -58,7 +58,7 @@ Capstone
  |CNN with Regularization 63 %  |      61 %     |         N             |
 
 
-  ## Conclusion 
+  # Conclusion 
 
   SVM is best performing model - good accuracy and optimal precision and recall for all classes.
 After using balancing technique SMOTE , precision and recall gets better, and CNN can predict all 3 classes with slight compromise on accuracy.
