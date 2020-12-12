@@ -31,10 +31,10 @@ Capstone
 
   # Audio EDA 
   ## Audio Waveplot
-    ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/audio_waveplot.png)
+    ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/audio_waveplot.png?raw=true)
 
   ## Spectogram 
-      ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/spectogram.png)
+      ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/spectogram.png?raw=true)
       
   ## MFCC 
     ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/MFCC.png?raw=true)
