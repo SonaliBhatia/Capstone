@@ -8,7 +8,6 @@ People from different parts of the world speak in different accent and hence it 
 This project aims to recognize and classify speaker accents by AI enabled devices.
 
 ## Repository Structure: 
-
 Capstone
 |--code
   |--01_WebScrapping_Audio_Data.ipynb
@@ -30,16 +29,17 @@ Capstone
   3) Try different models for classification. 
   4) Predict accent for a single audio file using trained model.
 
-# Audio EDA 
+  # Audio EDA 
+  ## Audio Waveplot
+    ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/audio_waveplot.png?raw=true)
 
-  # Audio Waveplot
-     ![Wave_plot](https://github.com/SonaliBhatia/Capstone/blob/main/images/audio_waveplot.png)
-
-  # Spectogram 
-      ![spectogram](https://user-images.githubusercontent.com/70871127/101969677-baae2a00-3bf3-11eb-8c55-03f76ed36236.png)
+  ## Spectogram 
+      ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/spectogram.png?raw=true)
       
-  # MFCC 
-    ![MFCC](https://raw.github.com/SonaliBhatia/Capstone/blob/main/images/MFCC.png)
+  ## MFCC 
+    ![](https://github.com/SonaliBhatia/Capstone/blob/main/images/MFCC.png?raw=true)
+
+  # Models used
 
   Feed Forward Neural Network – to check baseline
     1) Simple Vector Machine – LinearSVC
@@ -48,21 +48,22 @@ Capstone
     4) CNN with SMOTE 
     5) CNN with Undersampling
 
-  Results :
+ # Results :
 
   
- | Train Accuracy               | Test Accuracy | Predictability  (Y/N) |
+ | Train Accuracy               | Test Accuracy | Predictability  (Y/N) |
  |------------------------------| --------------| ----------------------|
- |SVM    68 %                   |      63 %     |         Y             |
+ |SVM    68 %                    |      63 %     |         Y             |
  |CNN with SMOTE 62 %           |      63 %     |         Y             |
  |CNN with Regularization 63 %  |      61 %     |         N             |
 
 
-   ## Conclusion 
+  # Conclusion 
 
---SVM is best performing model - good accuracy and optimal precision and recall for all classes.
---After using balancing technique SMOTE , precision and recall gets better, and CNN can predict all    classes with slight compromise on accuracy.
---Data is insufficient and imbalanced.
---Due to imbalanced data CNN gives biased results and does not predict 1 class at all.
+  SVM is best performing model - good accuracy and optimal precision and recall for all classes.
+After using balancing technique SMOTE , precision and recall gets better, and CNN can predict all 3 classes with slight compromise on accuracy.
+Data is insufficient and imbalanced.
+Due to imbalanced data CNN gives biased results and does not predict 1 class at all.
+
 
 
